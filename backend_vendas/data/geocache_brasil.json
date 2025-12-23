@@ -1,0 +1,8588 @@
+{
+  "BRASILAPI 48280000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Mata de São João,BA"
+  },
+  "BRASILAPI 04534010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Paulo,SP"
+  },
+  "BRASILAPI 43700000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Simões Filho,BA"
+  },
+  "BRASILAPI 34007378": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nova Lima,MG"
+  },
+  "BRASILAPI 57300000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 14708210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bebedouro,SP"
+  },
+  "BRASILAPI 42840692": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Camaçari,BA"
+  },
+  "BRASILAPI 89240000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Francisco do Sul,SC"
+  },
+  "BRASILAPI 84261020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Telêmaco Borba,PR"
+  },
+  "BRASILAPI 41745005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41230180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 53130515": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Olinda,PE"
+  },
+  "BRASILAPI 65800000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Balsas,MA"
+  },
+  "BRASILAPI 41810215": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 53260640": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Olinda,PE"
+  },
+  "BRASILAPI 78770000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Alto Garças,MT"
+  },
+  "BRASILAPI 68580000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itupiranga,PA"
+  },
+  "BRASILAPI 44073540": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "BRASILAPI 44085370": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "BRASILAPI 25255030": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Duque de Caxias,RJ"
+  },
+  "BRASILAPI 07124000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Guarulhos,SP"
+  },
+  "BRASILAPI 77700000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Guaraí,TO"
+  },
+  "BRASILAPI 78652000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Confresa,MT"
+  },
+  "BRASILAPI 65200000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Pinheiro,MA"
+  },
+  "BRASILAPI 65300000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 66077000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 66077530": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 65950000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Barra do Corda,MA"
+  },
+  "BRASILAPI 65300001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santa Inês,MA"
+  },
+  "BRASILAPI 65306320": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santa Inês,MA"
+  },
+  "BRASILAPI 62504142": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itapipoca,CE"
+  },
+  "BRASILAPI 48909725": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Juazeiro,BA"
+  },
+  "BRASILAPI 45986330": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Teixeira de Freitas,BA"
+  },
+  "BRASILAPI 49085100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "BRASILAPI 64601382": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Picos,PI"
+  },
+  "BRASILAPI 49030270": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "BRASILAPI 65095602": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 79080761": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 78065270": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cuiabá,MT"
+  },
+  "BRASILAPI 68742740": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Castanhal,PA"
+  },
+  "BRASILAPI 44180000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Antônio Cardoso,BA"
+  },
+  "BRASILAPI 65917033": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Imperatriz,MA"
+  },
+  "BRASILAPI 78735327": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rondonópolis,MT"
+  },
+  "BRASILAPI 26435210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Japeri,RJ"
+  },
+  "BRASILAPI 88220000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itapema,SC"
+  },
+  "BRASILAPI 67113330": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ananindeua,PA"
+  },
+  "BRASILAPI 49026010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "BRASILAPI 30330000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 29045403": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória,ES"
+  },
+  "BRASILAPI 35409001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ouro Preto,MG"
+  },
+  "BRASILAPI 29375000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Venda Nova do Imigrante,ES"
+  },
+  "BRASILAPI 11660330": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caraguatatuba,SP"
+  },
+  "BRASILAPI 65076820": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 07700210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caieiras,SP"
+  },
+  "BRASILAPI 56312385": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Petrolina,PE"
+  },
+  "BRASILAPI 65606060": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caxias,MA"
+  },
+  "BRASILAPI 59295444": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Gonçalo do Amarante,RN"
+  },
+  "BRASILAPI 42717000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lauro de Freitas,BA"
+  },
+  "BRASILAPI 57071180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 65065470": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 18013000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sorocaba,SP"
+  },
+  "BRASILAPI 29161414": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Serra,ES"
+  },
+  "BRASILAPI 78525000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Matupá,MT"
+  },
+  "BRASILAPI 35681127": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itaúna,MG"
+  },
+  "BRASILAPI 65470000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Mateus do Maranhão,MA"
+  },
+  "BRASILAPI 03527900": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Paulo,SP"
+  },
+  "BRASILAPI 53520785": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Abreu e Lima,PE"
+  },
+  "BRASILAPI 55195500": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santa Cruz do Capibaribe,PE"
+  },
+  "BRASILAPI 75123370": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Anápolis,GO"
+  },
+  "BRASILAPI 65090272": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 61946215": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maranguape,CE"
+  },
+  "BRASILAPI 57032901": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 57037901": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 09520110": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Caetano do Sul,SP"
+  },
+  "BRASILAPI 88301300": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itajaí,SC"
+  },
+  "BRASILAPI 78115146": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 65073212": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 04795915": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Paulo,SP"
+  },
+  "BRASILAPI 45820095": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Eunápolis,BA"
+  },
+  "BRASILAPI 44007775": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "BRASILAPI 63040005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Juazeiro do Norte,CE"
+  },
+  "BRASILAPI 65130000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paço do Lumiar,MA"
+  },
+  "BRASILAPI 54759000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Camaragibe,PE"
+  },
+  "BRASILAPI 57061110": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 54325440": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jaboatão dos Guararapes,PE"
+  },
+  "BRASILAPI 68660000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Miguel do Guamá,PA"
+  },
+  "BRASILAPI 56318525": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Petrolina,PE"
+  },
+  "BRASILAPI 49095650": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "BRASILAPI 88308004": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itajaí,SC"
+  },
+  "BRASILAPI 41720200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 88340000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 78158207": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Várzea Grande,MT"
+  },
+  "BRASILAPI 78110000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Várzea Grande,MT"
+  },
+  "BRASILAPI 57480000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Delmiro Gouveia,AL"
+  },
+  "BRASILAPI 88330116": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Balneário Camboriú,SC"
+  },
+  "BRASILAPI 75131500": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Anápolis,GO"
+  },
+  "BRASILAPI 45651135": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ilhéus,BA"
+  },
+  "BRASILAPI 45055090": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória da Conquista,BA"
+  },
+  "BRASILAPI 45028100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória da Conquista,BA"
+  },
+  "BRASILAPI 58200000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Guarabira,PB"
+  },
+  "BRASILAPI 38701044": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Patos de Minas,MG"
+  },
+  "BRASILAPI 37410117": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Três Corações,MG"
+  },
+  "BRASILAPI 13503183": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio Claro,SP"
+  },
+  "BRASILAPI 34018006": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nova Lima,MG"
+  },
+  "BRASILAPI 78740138": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rondonópolis,MT"
+  },
+  "BRASILAPI 07115000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Guarulhos,SP"
+  },
+  "BRASILAPI 68625140": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paragominas,PA"
+  },
+  "BRASILAPI 45655650": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ilhéus,BA"
+  },
+  "BRASILAPI 42827000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 53416710": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paulista,PE"
+  },
+  "BRASILAPI 15520000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Valentim Gentil,SP"
+  },
+  "BRASILAPI 88132010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Palhoça,SC"
+  },
+  "BRASILAPI 88390000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Barra Velha,SC"
+  },
+  "BRASILAPI 46190810": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 38722971": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lagoa Formosa,MG"
+  },
+  "BRASILAPI 76550000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Porangatu,GO"
+  },
+  "BRASILAPI 72225512": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 48282970": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 57200000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Penedo,AL"
+  },
+  "BRASILAPI 70673621": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 68552010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Redenção,PA"
+  },
+  "BRASILAPI 42841000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 42821658": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Camaçari,BA"
+  },
+  "BRASILAPI 66825010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 41280117": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 22775090": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 41195001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 28110000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campos dos Goytacazes,RJ"
+  },
+  "BRASILAPI 13178535": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sumaré,SP"
+  },
+  "BRASILAPI 58088200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "BRASILAPI 23092001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 08260000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Paulo,SP"
+  },
+  "BRASILAPI 14176855": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sertãozinho,SP"
+  },
+  "BRASILAPI 48924999": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 04788000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Paulo,SP"
+  },
+  "BRASILAPI 78055125": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cuiabá,MT"
+  },
+  "BRASILAPI 40301500": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 68445000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Barcarena,PA"
+  },
+  "BRASILAPI 72870001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Valparaíso de Goiás,GO"
+  },
+  "BRASILAPI 38446306": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Araguari,MG"
+  },
+  "BRASILAPI 06029900": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Osasco,SP"
+  },
+  "BRASILAPI 78750340": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rondonópolis,MT"
+  },
+  "BRASILAPI 44550000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Felipe,BA"
+  },
+  "BRASILAPI 48110000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Catu,BA"
+  },
+  "BRASILAPI 25955000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Teresópolis,RJ"
+  },
+  "BRASILAPI 65716000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paulo Ramos,MA"
+  },
+  "BRASILAPI 35550000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itapecerica,MG"
+  },
+  "BRASILAPI 44380000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cruz das Almas,BA"
+  },
+  "BRASILAPI 48370000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Esplanada,BA"
+  },
+  "BRASILAPI 05461000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Paulo,SP"
+  },
+  "BRASILAPI 77001010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Palmas,TO"
+  },
+  "BRASILAPI 77021623": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Palmas,TO"
+  },
+  "BRASILAPI 72304103": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 61760000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Eusébio,CE"
+  },
+  "BRASILAPI 76820862": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Porto Velho,RO"
+  },
+  "BRASILAPI 44400000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nazaré,BA"
+  },
+  "BRASILAPI 58108531": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cabedelo,PB"
+  },
+  "BRASILAPI 48500000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Euclides da Cunha,BA"
+  },
+  "BRASILAPI 41680111": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 14533013": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 27524112": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Resende,RJ"
+  },
+  "BRASILAPI 83005390": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José dos Pinhais,PR"
+  },
+  "BRASILAPI 13200180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 57081110": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 40295020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40295035": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 42735100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lauro de Freitas,BA"
+  },
+  "BRASILAPI 11065100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santos,SP"
+  },
+  "BRASILAPI 42833000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Camaçari,BA"
+  },
+  "BRASILAPI 60748386": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 62882070": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Horizonte,CE"
+  },
+  "BRASILAPI 13487530": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Limeira,SP"
+  },
+  "BRASILAPI 39560000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salinas,MG"
+  },
+  "BRASILAPI 36270000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ressaquinha,MG"
+  },
+  "BRASILAPI 69909788": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio Branco,AC"
+  },
+  "BRASILAPI 69909640": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio Branco,AC"
+  },
+  "BRASILAPI 42700000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lauro de Freitas,BA"
+  },
+  "BRASILAPI 41297357": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 42801633": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Camaçari,BA"
+  },
+  "BRASILAPI 43813300": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Candeias,BA"
+  },
+  "BRASILAPI 55500000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Escada,PE"
+  },
+  "BRASILAPI 77600000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paraíso do Tocantins,TO"
+  },
+  "BRASILAPI 54800000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Moreno,PE"
+  },
+  "BRASILAPI 56280000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Araripina,PE"
+  },
+  "BRASILAPI 13082901": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campinas,SP"
+  },
+  "BRASILAPI 45604811": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itabuna,BA"
+  },
+  "BRASILAPI 88050001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Florianópolis,SC"
+  },
+  "BRASILAPI 54325650": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jaboatão dos Guararapes,PE"
+  },
+  "BRASILAPI 65235000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Bento,MA"
+  },
+  "BRASILAPI 26564200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Mesquita,RJ"
+  },
+  "BRASILAPI 94440000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Viamão,RS"
+  },
+  "BRASILAPI 49140000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Barra dos Coqueiros,SE"
+  },
+  "BRASILAPI 66645001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 44460000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itaparica,BA"
+  },
+  "BRASILAPI 65975000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Estreito,MA"
+  },
+  "BRASILAPI 46430000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Guanambi,BA"
+  },
+  "BRASILAPI 35702372": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sete Lagoas,MG"
+  },
+  "BRASILAPI 36039080": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Juiz de Fora,MG"
+  },
+  "BRASILAPI 57100000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio Largo,AL"
+  },
+  "BRASILAPI 54345165": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jaboatão dos Guararapes,PE"
+  },
+  "BRASILAPI 54345160": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jaboatão dos Guararapes,PE"
+  },
+  "BRASILAPI 55900000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goiana,PE"
+  },
+  "BRASILAPI 55495000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Agrestina,PE"
+  },
+  "BRASILAPI 65690000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Colinas,MA"
+  },
+  "BRASILAPI 74675090": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goiânia,GO"
+  },
+  "BRASILAPI 74620430": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goiânia,GO"
+  },
+  "BRASILAPI 61635365": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caucaia,CE"
+  },
+  "BRASILAPI 62051402": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sobral,CE"
+  },
+  "BRASILAPI 65500000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Chapadinha,MA"
+  },
+  "BRASILAPI 64290000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Altos,PI"
+  },
+  "BRASILAPI 54130340": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jaboatão dos Guararapes,PE"
+  },
+  "BRASILAPI 49160000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nossa Senhora do Socorro,SE"
+  },
+  "BRASILAPI 67208210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Marituba,PA"
+  },
+  "BRASILAPI 64603000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Picos,PI"
+  },
+  "BRASILAPI 65700000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bacabal,MA"
+  },
+  "BRASILAPI 64205200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Parnaíba,PI"
+  },
+  "BRASILAPI 69907701": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio Branco,AC"
+  },
+  "BRASILAPI 32669055": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Betim,MG"
+  },
+  "BRASILAPI 75906605": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio Verde,GO"
+  },
+  "BRASILAPI 29165740": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Serra,ES"
+  },
+  "BRASILAPI 02283000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Paulo,SP"
+  },
+  "BRASILAPI 29167183": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Serra,ES"
+  },
+  "BRASILAPI 65215000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Viana,MA"
+  },
+  "BRASILAPI 65415000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Coroatá,MA"
+  },
+  "BRASILAPI 65208000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santa Helena,MA"
+  },
+  "BRASILAPI 55304000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Garanhuns,PE"
+  },
+  "BRASILAPI 78390000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Barra do Bugres,MT"
+  },
+  "BRASILAPI 68695000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Tailândia,PA"
+  },
+  "BRASILAPI 88370232": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Navegantes,SC"
+  },
+  "BRASILAPI 55613000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória de Santo Antão,PE"
+  },
+  "BRASILAPI 07857050": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Franco da Rocha,SP"
+  },
+  "BRASILAPI 07713000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caieiras,SP"
+  },
+  "BRASILAPI 26285000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nova Iguaçu,RJ"
+  },
+  "BRASILAPI 06768000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Taboão da Serra,SP"
+  },
+  "BRASILAPI 29345000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Marataízes,ES"
+  },
+  "BRASILAPI 06709470": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cotia,SP"
+  },
+  "BRASILAPI 30320760": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 77820596": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Araguaína,TO"
+  },
+  "BRASILAPI 68502290": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Marabá,PA"
+  },
+  "BRASILAPI 68507300": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Marabá,PA"
+  },
+  "BRASILAPI 88102340": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José,SC"
+  },
+  "BRASILAPI 73340180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 29157900": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cariacica,ES"
+  },
+  "BRASILAPI 15502325": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Votuporanga,SP"
+  },
+  "BRASILAPI 48730000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Conceição do Coité,BA"
+  },
+  "BRASILAPI 88130280": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Palhoça,SC"
+  },
+  "BRASILAPI 06725060": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cotia,SP"
+  },
+  "BRASILAPI 17026550": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bauru,SP"
+  },
+  "BRASILAPI 36085160": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Juiz de Fora,MG"
+  },
+  "BRASILAPI 42813092": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Camaçari,BA"
+  },
+  "BRASILAPI 42701330": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lauro de Freitas,BA"
+  },
+  "BRASILAPI 62674000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Gonçalo do Amarante,CE"
+  },
+  "BRASILAPI 06350310": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 68450000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Moju,PA"
+  },
+  "BRASILAPI 27715252": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 42700130": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lauro de Freitas,BA"
+  },
+  "BRASILAPI 40715290": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 50751130": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 65715000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lago da Pedra,MA"
+  },
+  "BRASILAPI 13041902": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campinas,SP"
+  },
+  "BRASILAPI 45810000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Porto Seguro,BA"
+  },
+  "BRASILAPI 28890000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 65930000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Açailândia,MA"
+  },
+  "BRASILAPI 35680215": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itaúna,MG"
+  },
+  "BRASILAPI 61939210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maracanaú,CE"
+  },
+  "BRASILAPI 88048300": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Florianópolis,SC"
+  },
+  "BRASILAPI 48700000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Serrinha,BA"
+  },
+  "BRASILAPI 59255000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santo Antônio,RN"
+  },
+  "BRASILAPI 58036880": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "BRASILAPI 88355350": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brusque,SC"
+  },
+  "BRASILAPI 48490000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Inhambupe,BA"
+  },
+  "BRASILAPI 55034250": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caruaru,PE"
+  },
+  "BRASILAPI 57490000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Água Branca,AL"
+  },
+  "BRASILAPI 88508620": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lages,SC"
+  },
+  "BRASILAPI 68701480": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Capanema,PA"
+  },
+  "BRASILAPI 59650000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Açu,RN"
+  },
+  "BRASILAPI 53437810": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paulista,PE"
+  },
+  "BRASILAPI 44573520": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santo Antônio de Jesus,BA"
+  },
+  "BRASILAPI 41299235": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 40301155": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 89256000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jaraguá do Sul,SC"
+  },
+  "BRASILAPI 69075840": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Manaus,AM"
+  },
+  "BRASILAPI 59073150": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Natal,RN"
+  },
+  "BRASILAPI 04165000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Paulo,SP"
+  },
+  "BRASILAPI 44360000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Félix,BA"
+  },
+  "BRASILAPI 48970000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Senhor do Bonfim,BA"
+  },
+  "BRASILAPI 26600000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paracambi,RJ"
+  },
+  "BRASILAPI 83280000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Guaratuba,PR"
+  },
+  "BRASILAPI 04115090": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Paulo,SP"
+  },
+  "BRASILAPI 51160210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 78075210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cuiabá,MT"
+  },
+  "BRASILAPI 55520000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ribeirão,PE"
+  },
+  "BRASILAPI 62042120": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sobral,CE"
+  },
+  "BRASILAPI 75955000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Indiara,GO"
+  },
+  "BRASILAPI 88117400": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José,SC"
+  },
+  "BRASILAPI 58064015": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "BRASILAPI 04533013": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Paulo,SP"
+  },
+  "BRASILAPI 17010230": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bauru,SP"
+  },
+  "BRASILAPI 32250000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "BRASILAPI 55125000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Toritama,PE"
+  },
+  "BRASILAPI 93315138": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Novo Hamburgo,RS"
+  },
+  "BRASILAPI 09771210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Bernardo do Campo,SP"
+  },
+  "BRASILAPI 72445000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 70276400": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 70310660": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 71219900": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 68600000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bragança,PA"
+  },
+  "CITY_CENTER MATA DE SÃO JOÃO BA BRAZIL": {
+    "lat": -12.530685,
+    "lon": -38.300898,
+    "metodo": "CityCenter",
+    "extra": "MATA DE SÃO JOÃO, BA, Brazil"
+  },
+  "BRASILAPI 41740460": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "CITY_CENTER SALVADOR BA BRAZIL": {
+    "lat": -12.9822499,
+    "lon": -38.4812772,
+    "metodo": "CityCenter",
+    "extra": "SALVADOR, BA, Brazil"
+  },
+  "CITY_CENTER SÃO PAULO SP BRAZIL": {
+    "lat": -23.5506507,
+    "lon": -46.6333824,
+    "metodo": "CityCenter",
+    "extra": "SÃO PAULO, SP, Brazil"
+  },
+  "CITY_CENTER SIMÕES FILHO BA BRAZIL": {
+    "lat": -12.7867839,
+    "lon": -38.4030365,
+    "metodo": "CityCenter",
+    "extra": "SIMÕES FILHO, BA, Brazil"
+  },
+  "BRASILAPI 71608900": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "CITY_CENTER BRASÍLIA DF BRAZIL": {
+    "lat": -15.7939869,
+    "lon": -47.8828,
+    "metodo": "CityCenter",
+    "extra": "BRASÍLIA, DF, Brazil"
+  },
+  "BRASILAPI 22631004": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "CITY_CENTER RIO DE JANEIRO RJ BRAZIL": {
+    "lat": -22.9110137,
+    "lon": -43.2093727,
+    "metodo": "CityCenter",
+    "extra": "RIO DE JANEIRO, RJ, Brazil"
+  },
+  "BRASILAPI 50741904": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "CITY_CENTER RECIFE PE BRAZIL": {
+    "lat": -8.0584933,
+    "lon": -34.8848193,
+    "metodo": "CityCenter",
+    "extra": "RECIFE, PE, Brazil"
+  },
+  "CITY_CENTER BARUERI SP BRAZIL": {
+    "lat": -23.5112184,
+    "lon": -46.8764612,
+    "metodo": "CityCenter",
+    "extra": "BARUERI, SP, Brazil"
+  },
+  "CITY_CENTER NOVA LIMA MG BRAZIL": {
+    "lat": -19.9854089,
+    "lon": -43.8470691,
+    "metodo": "CityCenter",
+    "extra": "NOVA LIMA, MG, Brazil"
+  },
+  "BRASILAPI 41820790": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 57035690": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "CITY_CENTER MACEIÓ AL BRAZIL": {
+    "lat": -9.6476843,
+    "lon": -35.7339264,
+    "metodo": "CityCenter",
+    "extra": "MACEIÓ, AL, Brazil"
+  },
+  "CITY_CENTER BEBEDOURO SP BRAZIL": {
+    "lat": -20.949077,
+    "lon": -48.479083,
+    "metodo": "CityCenter",
+    "extra": "BEBEDOURO, SP, Brazil"
+  },
+  "CITY_CENTER CAMAÇARI BA BRAZIL": {
+    "lat": -12.6998188,
+    "lon": -38.3260762,
+    "metodo": "CityCenter",
+    "extra": "CAMAÇARI, BA, Brazil"
+  },
+  "BRASILAPI 41600100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 32310000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "CITY_CENTER CONTAGEM MG BRAZIL": {
+    "lat": -19.9132749,
+    "lon": -44.0840953,
+    "metodo": "CityCenter",
+    "extra": "CONTAGEM, MG, Brazil"
+  },
+  "CITY_CENTER SÃO FRANCISCO DO SUL SC BRAZIL": {
+    "lat": -26.2495087,
+    "lon": -48.6308087,
+    "metodo": "CityCenter",
+    "extra": "SÃO FRANCISCO DO SUL, SC, Brazil"
+  },
+  "BRASILAPI 61935180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maracanaú,CE"
+  },
+  "CITY_CENTER MARACANAÚ CE BRAZIL": {
+    "lat": -3.8779438,
+    "lon": -38.6247697,
+    "metodo": "CityCenter",
+    "extra": "MARACANAÚ, CE, Brazil"
+  },
+  "CITY_CENTER TELÊMACO BORBA PR BRAZIL": {
+    "lat": -24.3282939,
+    "lon": -50.6318021,
+    "metodo": "CityCenter",
+    "extra": "TELÊMACO BORBA, PR, Brazil"
+  },
+  "BRASILAPI 65058324": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "CITY_CENTER SÃO LUÍS MA BRAZIL": {
+    "lat": -2.5295265,
+    "lon": -44.2963942,
+    "metodo": "CityCenter",
+    "extra": "SÃO LUÍS, MA, Brazil"
+  },
+  "BRASILAPI 62810000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Icapuí,CE"
+  },
+  "CITY_CENTER ICAPUÍ CE BRAZIL": {
+    "lat": -4.7158474,
+    "lon": -37.3535365,
+    "metodo": "CityCenter",
+    "extra": "ICAPUÍ, CE, Brazil"
+  },
+  "BRASILAPI 40170110": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41701015": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 45600934": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "CITY_CENTER ITABUNA BA BRAZIL": {
+    "lat": -14.793173,
+    "lon": -39.2750341,
+    "metodo": "CityCenter",
+    "extra": "ITABUNA, BA, Brazil"
+  },
+  "BRASILAPI 29050911": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória,ES"
+  },
+  "CITY_CENTER VITÓRIA ES BRAZIL": {
+    "lat": -20.3200917,
+    "lon": -40.3376682,
+    "metodo": "CityCenter",
+    "extra": "VITÓRIA, ES, Brazil"
+  },
+  "BRASILAPI 53444360": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paulista,PE"
+  },
+  "CITY_CENTER PAULISTA PE BRAZIL": {
+    "lat": -7.9340069,
+    "lon": -34.868407,
+    "metodo": "CityCenter",
+    "extra": "PAULISTA, PE, Brazil"
+  },
+  "BRASILAPI 40280902": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 86701000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "CITY_CENTER ARAPONGAS PR BRAZIL": {
+    "lat": -23.4152862,
+    "lon": -51.4293961,
+    "metodo": "CityCenter",
+    "extra": "ARAPONGAS, PR, Brazil"
+  },
+  "BRASILAPI 17052005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bauru,SP"
+  },
+  "CITY_CENTER BAURU SP BRAZIL": {
+    "lat": -22.3218102,
+    "lon": -49.0705863,
+    "metodo": "CityCenter",
+    "extra": "BAURU, SP, Brazil"
+  },
+  "BRASILAPI 35680095": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itaúna,MG"
+  },
+  "CITY_CENTER ITAÚNA MG BRAZIL": {
+    "lat": -20.075556,
+    "lon": -44.576389,
+    "metodo": "CityCenter",
+    "extra": "ITAÚNA, MG, Brazil"
+  },
+  "BRASILAPI 50731005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 40157151": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "CITY_CENTER CAXIAS MA BRAZIL": {
+    "lat": -4.8654201,
+    "lon": -43.353664,
+    "metodo": "CityCenter",
+    "extra": "CAXIAS, MA, Brazil"
+  },
+  "BRASILAPI 41181900": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 57057000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 99500000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Carazinho,RS"
+  },
+  "CITY_CENTER CARAZINHO RS BRAZIL": {
+    "lat": -28.2981634,
+    "lon": -52.7942363,
+    "metodo": "CityCenter",
+    "extra": "CARAZINHO, RS, Brazil"
+  },
+  "CITY_CENTER OLINDA PE BRAZIL": {
+    "lat": -7.9986401,
+    "lon": -34.8459552,
+    "metodo": "CityCenter",
+    "extra": "OLINDA, PE, Brazil"
+  },
+  "CITY_CENTER BALSAS MA BRAZIL": {
+    "lat": -7.53214,
+    "lon": -46.037163,
+    "metodo": "CityCenter",
+    "extra": "BALSAS, MA, Brazil"
+  },
+  "BRASILAPI 44052064": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "CITY_CENTER FEIRA DE SANTANA BA BRAZIL": {
+    "lat": -12.2578934,
+    "lon": -38.9598047,
+    "metodo": "CityCenter",
+    "extra": "FEIRA DE SANTANA, BA, Brazil"
+  },
+  "BRASILAPI 44520000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rafael Jambeiro,BA"
+  },
+  "CITY_CENTER RAFAEL JAMBEIRO BA BRAZIL": {
+    "lat": -12.3988144,
+    "lon": -39.5020289,
+    "metodo": "CityCenter",
+    "extra": "RAFAEL JAMBEIRO, BA, Brazil"
+  },
+  "BRASILAPI 34710138": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sabará,MG"
+  },
+  "CITY_CENTER SABARÁ MG BRAZIL": {
+    "lat": -19.8900372,
+    "lon": -43.8107916,
+    "metodo": "CityCenter",
+    "extra": "SABARÁ, MG, Brazil"
+  },
+  "BRASILAPI 35680352": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itaúna,MG"
+  },
+  "BRASILAPI 58111400": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bayeux,PB"
+  },
+  "CITY_CENTER BAYEUX PB BRAZIL": {
+    "lat": -7.1301631,
+    "lon": -34.936532,
+    "metodo": "CityCenter",
+    "extra": "BAYEUX, PB, Brazil"
+  },
+  "BRASILAPI 41730101": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 42701450": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lauro de Freitas,BA"
+  },
+  "CITY_CENTER LAURO DE FREITAS BA BRAZIL": {
+    "lat": -12.89242,
+    "lon": -38.3127691,
+    "metodo": "CityCenter",
+    "extra": "LAURO DE FREITAS, BA, Brazil"
+  },
+  "BRASILAPI 17512751": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Marília,SP"
+  },
+  "CITY_CENTER MARÍLIA SP BRAZIL": {
+    "lat": -22.2172002,
+    "lon": -49.9500061,
+    "metodo": "CityCenter",
+    "extra": "MARÍLIA, SP, Brazil"
+  },
+  "BRASILAPI 13414040": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Piracicaba,SP"
+  },
+  "CITY_CENTER PIRACICABA SP BRAZIL": {
+    "lat": -22.725165,
+    "lon": -47.6493269,
+    "metodo": "CityCenter",
+    "extra": "PIRACICABA, SP, Brazil"
+  },
+  "CITY_CENTER VITÓRIA DA CONQUISTA BA BRAZIL": {
+    "lat": -14.8567487,
+    "lon": -40.8414804,
+    "metodo": "CityCenter",
+    "extra": "VITÓRIA DA CONQUISTA, BA, Brazil"
+  },
+  "BRASILAPI 68385000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Tucumã,PA"
+  },
+  "CITY_CENTER TUCUMÃ PA BRAZIL": {
+    "lat": -6.7517239,
+    "lon": -51.1507941,
+    "metodo": "CityCenter",
+    "extra": "TUCUMÃ, PA, Brazil"
+  },
+  "BRASILAPI 79033180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "CITY_CENTER CAMPO GRANDE MS BRAZIL": {
+    "lat": -20.4640173,
+    "lon": -54.6162947,
+    "metodo": "CityCenter",
+    "extra": "CAMPO GRANDE, MS, Brazil"
+  },
+  "BRASILAPI 55016400": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caruaru,PE"
+  },
+  "CITY_CENTER CARUARU PE BRAZIL": {
+    "lat": -8.2829702,
+    "lon": -35.9722852,
+    "metodo": "CityCenter",
+    "extra": "CARUARU, PE, Brazil"
+  },
+  "BRASILAPI 64204035": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Parnaíba,PI"
+  },
+  "CITY_CENTER PARNAÍBA PI BRAZIL": {
+    "lat": -2.9147515,
+    "lon": -41.7661953,
+    "metodo": "CityCenter",
+    "extra": "PARNAÍBA, PI, Brazil"
+  },
+  "BRASILAPI 65390000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santa Luzia,MA"
+  },
+  "CITY_CENTER SANTA LUZIA MA BRAZIL": {
+    "lat": -3.9633675,
+    "lon": -45.6637956,
+    "metodo": "CityCenter",
+    "extra": "SANTA LUZIA, MA, Brazil"
+  },
+  "BRASILAPI 41820021": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 68639000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goianésia do Pará,PA"
+  },
+  "CITY_CENTER GOIANÉSIA DO PARÁ PA BRAZIL": {
+    "lat": -3.8380998,
+    "lon": -49.0977992,
+    "metodo": "CityCenter",
+    "extra": "GOIANÉSIA DO PARÁ, PA, Brazil"
+  },
+  "BRASILAPI 68625970": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paragominas,PA"
+  },
+  "CITY_CENTER PARAGOMINAS PA BRAZIL": {
+    "lat": -2.99564,
+    "lon": -47.3548942,
+    "metodo": "CityCenter",
+    "extra": "PARAGOMINAS, PA, Brazil"
+  },
+  "BRASILAPI 68540000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Conceição do Araguaia,PA"
+  },
+  "CITY_CENTER CONCEIÇÃO DO ARAGUAIA PA BRAZIL": {
+    "lat": -8.2696905,
+    "lon": -49.2676864,
+    "metodo": "CityCenter",
+    "extra": "CONCEIÇÃO DO ARAGUAIA, PA, Brazil"
+  },
+  "CITY_CENTER ALTO GARÇAS MT BRAZIL": {
+    "lat": -16.9469683,
+    "lon": -53.529427,
+    "metodo": "CityCenter",
+    "extra": "ALTO GARÇAS, MT, Brazil"
+  },
+  "BRASILAPI 49040020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "CITY_CENTER ARACAJU SE BRAZIL": {
+    "lat": -10.9162061,
+    "lon": -37.0774655,
+    "metodo": "CityCenter",
+    "extra": "ARACAJU, SE, Brazil"
+  },
+  "BRASILAPI 38406633": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Uberlândia,MG"
+  },
+  "CITY_CENTER UBERLÂNDIA MG BRAZIL": {
+    "lat": -18.9188041,
+    "lon": -48.2767837,
+    "metodo": "CityCenter",
+    "extra": "UBERLÂNDIA, MG, Brazil"
+  },
+  "CITY_CENTER ITUPIRANGA PA BRAZIL": {
+    "lat": -5.1337224,
+    "lon": -49.3321988,
+    "metodo": "CityCenter",
+    "extra": "ITUPIRANGA, PA, Brazil"
+  },
+  "BRASILAPI 15081285": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José do Rio Preto,SP"
+  },
+  "CITY_CENTER SÃO JOSÉ DO RIO PRETO SP BRAZIL": {
+    "lat": -20.8125851,
+    "lon": -49.3804212,
+    "metodo": "CityCenter",
+    "extra": "SÃO JOSÉ DO RIO PRETO, SP, Brazil"
+  },
+  "BRASILAPI 28035582": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campos dos Goytacazes,RJ"
+  },
+  "CITY_CENTER CAMPOS DOS GOYTACAZES RJ BRAZIL": {
+    "lat": -21.7546,
+    "lon": -41.3242,
+    "metodo": "CityCenter",
+    "extra": "CAMPOS DOS GOYTACAZES, RJ, Brazil"
+  },
+  "CITY_CENTER AÇAILÂNDIA MA BRAZIL": {
+    "lat": -4.9515026,
+    "lon": -47.500732,
+    "metodo": "CityCenter",
+    "extra": "AÇAILÂNDIA, MA, Brazil"
+  },
+  "BRASILAPI 58102655": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cabedelo,PB"
+  },
+  "CITY_CENTER CABEDELO PB BRAZIL": {
+    "lat": -6.97324,
+    "lon": -34.8351609,
+    "metodo": "CityCenter",
+    "extra": "CABEDELO, PB, Brazil"
+  },
+  "BRASILAPI 15090305": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José do Rio Preto,SP"
+  },
+  "CITY_CENTER MAUÁ SP BRAZIL": {
+    "lat": -23.6669527,
+    "lon": -46.4616922,
+    "metodo": "CityCenter",
+    "extra": "MAUÁ, SP, Brazil"
+  },
+  "BRASILAPI 13880000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vargem Grande do Sul,SP"
+  },
+  "CITY_CENTER VARGEM GRANDE DO SUL SP BRAZIL": {
+    "lat": -21.8310636,
+    "lon": -46.893303,
+    "metodo": "CityCenter",
+    "extra": "VARGEM GRANDE DO SUL, SP, Brazil"
+  },
+  "BRASILAPI 41800700": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40265200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 68790000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santa Isabel do Pará,PA"
+  },
+  "CITY_CENTER SANTA ISABEL DO PARÁ PA BRAZIL": {
+    "lat": -1.2968557,
+    "lon": -48.1605533,
+    "metodo": "CityCenter",
+    "extra": "SANTA ISABEL DO PARÁ, PA, Brazil"
+  },
+  "BRASILAPI 79601970": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Três Lagoas,MS"
+  },
+  "CITY_CENTER TRÊS LAGOAS MS BRAZIL": {
+    "lat": -20.7866799,
+    "lon": -51.7061247,
+    "metodo": "CityCenter",
+    "extra": "TRÊS LAGOAS, MS, Brazil"
+  },
+  "BRASILAPI 58411450": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campina Grande,PB"
+  },
+  "CITY_CENTER CAMPINA GRANDE PB BRAZIL": {
+    "lat": -7.2246743,
+    "lon": -35.8771292,
+    "metodo": "CityCenter",
+    "extra": "CAMPINA GRANDE, PB, Brazil"
+  },
+  "BRASILAPI 69099045": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Manaus,AM"
+  },
+  "CITY_CENTER MANAUS AM BRAZIL": {
+    "lat": -3.1316333,
+    "lon": -59.9825041,
+    "metodo": "CityCenter",
+    "extra": "MANAUS, AM, Brazil"
+  },
+  "CITY_CENTER DUQUE DE CAXIAS RJ BRAZIL": {
+    "lat": -22.7896225,
+    "lon": -43.309929,
+    "metodo": "CityCenter",
+    "extra": "DUQUE DE CAXIAS, RJ, Brazil"
+  },
+  "BRASILAPI 22775005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 65910000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Imperatriz,MA"
+  },
+  "CITY_CENTER IMPERATRIZ MA BRAZIL": {
+    "lat": -5.5269279,
+    "lon": -47.478115,
+    "metodo": "CityCenter",
+    "extra": "IMPERATRIZ, MA, Brazil"
+  },
+  "BRASILAPI 59296608": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Gonçalo do Amarante,RN"
+  },
+  "CITY_CENTER SÃO GONÇALO DO AMARANTE RN BRAZIL": {
+    "lat": -5.7932331,
+    "lon": -35.3286312,
+    "metodo": "CityCenter",
+    "extra": "SÃO GONÇALO DO AMARANTE, RN, Brazil"
+  },
+  "BRASILAPI 78700905": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rondonópolis,MT"
+  },
+  "CITY_CENTER RONDONÓPOLIS MT BRAZIL": {
+    "lat": -16.4603533,
+    "lon": -54.6397099,
+    "metodo": "CityCenter",
+    "extra": "RONDONÓPOLIS, MT, Brazil"
+  },
+  "BRASILAPI 54330000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jaboatão dos Guararapes,PE"
+  },
+  "CITY_CENTER JABOATÃO DOS GUARARAPES PE BRAZIL": {
+    "lat": -8.1752476,
+    "lon": -34.9468716,
+    "metodo": "CityCenter",
+    "extra": "JABOATÃO DOS GUARARAPES, PE, Brazil"
+  },
+  "BRASILAPI 54410100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jaboatão dos Guararapes,PE"
+  },
+  "CITY_CENTER GUARULHOS SP BRAZIL": {
+    "lat": -23.4675941,
+    "lon": -46.5277704,
+    "metodo": "CityCenter",
+    "extra": "GUARULHOS, SP, Brazil"
+  },
+  "BRASILAPI 30170120": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "CITY_CENTER BELO HORIZONTE MG BRAZIL": {
+    "lat": -19.9227318,
+    "lon": -43.9450948,
+    "metodo": "CityCenter",
+    "extra": "BELO HORIZONTE, MG, Brazil"
+  },
+  "CITY_CENTER ARAGUAÍNA TO BRAZIL": {
+    "lat": -7.193241,
+    "lon": -48.2018597,
+    "metodo": "CityCenter",
+    "extra": "ARAGUAÍNA, TO, Brazil"
+  },
+  "BRASILAPI 74910096": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aparecida de Goiânia,GO"
+  },
+  "CITY_CENTER APARECIDA DE GOIÂNIA GO BRAZIL": {
+    "lat": -16.8226769,
+    "lon": -49.2452546,
+    "metodo": "CityCenter",
+    "extra": "APARECIDA DE GOIÂNIA, GO, Brazil"
+  },
+  "BRASILAPI 78500000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Colíder,MT"
+  },
+  "CITY_CENTER COLÍDER MT BRAZIL": {
+    "lat": -10.8094999,
+    "lon": -55.4540386,
+    "metodo": "CityCenter",
+    "extra": "COLÍDER, MT, Brazil"
+  },
+  "BRASILAPI 21530001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 20930041": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 35162410": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ipatinga,MG"
+  },
+  "CITY_CENTER IPATINGA MG BRAZIL": {
+    "lat": -19.4777807,
+    "lon": -42.5270802,
+    "metodo": "CityCenter",
+    "extra": "IPATINGA, MG, Brazil"
+  },
+  "BRASILAPI 53570165": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Abreu e Lima,PE"
+  },
+  "CITY_CENTER ABREU E LIMA PE BRAZIL": {
+    "lat": -7.900719,
+    "lon": -34.898389,
+    "metodo": "CityCenter",
+    "extra": "ABREU E LIMA, PE, Brazil"
+  },
+  "BRASILAPI 69315242": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Boa Vista,RR"
+  },
+  "CITY_CENTER BOA VISTA RR BRAZIL": {
+    "lat": 2.8208478,
+    "lon": -60.6719582,
+    "metodo": "CityCenter",
+    "extra": "BOA VISTA, RR, Brazil"
+  },
+  "BRASILAPI 74270020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goiânia,GO"
+  },
+  "CITY_CENTER GOIÂNIA GO BRAZIL": {
+    "lat": -16.680882,
+    "lon": -49.2532691,
+    "metodo": "CityCenter",
+    "extra": "GOIÂNIA, GO, Brazil"
+  },
+  "BRASILAPI 18150000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ibiúna,SP"
+  },
+  "CITY_CENTER IBIÚNA SP BRAZIL": {
+    "lat": -23.6544825,
+    "lon": -47.220856,
+    "metodo": "CityCenter",
+    "extra": "IBIÚNA, SP, Brazil"
+  },
+  "BRASILAPI 13700000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Casa Branca,SP"
+  },
+  "CITY_CENTER CASA BRANCA SP BRAZIL": {
+    "lat": -21.7743137,
+    "lon": -47.0852175,
+    "metodo": "CityCenter",
+    "extra": "CASA BRANCA, SP, Brazil"
+  },
+  "BRASILAPI 69313630": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Boa Vista,RR"
+  },
+  "CITY_CENTER PINHEIRO MA BRAZIL": {
+    "lat": -2.5270459,
+    "lon": -45.0866463,
+    "metodo": "CityCenter",
+    "extra": "PINHEIRO, MA, Brazil"
+  },
+  "CITY_CENTER SANTA INÊS MA BRAZIL": {
+    "lat": -3.6647821,
+    "lon": -45.3826869,
+    "metodo": "CityCenter",
+    "extra": "SANTA INÊS, MA, Brazil"
+  },
+  "BRASILAPI 65075441": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 35530000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cláudio,MG"
+  },
+  "CITY_CENTER CLÁUDIO MG BRAZIL": {
+    "lat": -20.4448485,
+    "lon": -44.7655217,
+    "metodo": "CityCenter",
+    "extra": "CLÁUDIO, MG, Brazil"
+  },
+  "BRASILAPI 44700000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jacobina,BA"
+  },
+  "CITY_CENTER JACOBINA BA BRAZIL": {
+    "lat": -11.1851561,
+    "lon": -40.5112434,
+    "metodo": "CityCenter",
+    "extra": "JACOBINA, BA, Brazil"
+  },
+  "CITY_CENTER BARRA DO CORDA MA BRAZIL": {
+    "lat": -5.496823,
+    "lon": -45.248496,
+    "metodo": "CityCenter",
+    "extra": "BARRA DO CORDA, MA, Brazil"
+  },
+  "BRASILAPI 45652565": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ilhéus,BA"
+  },
+  "CITY_CENTER ILHÉUS BA BRAZIL": {
+    "lat": -14.792599,
+    "lon": -39.0453843,
+    "metodo": "CityCenter",
+    "extra": "ILHÉUS, BA, Brazil"
+  },
+  "CITY_CENTER ITAPIPOCA CE BRAZIL": {
+    "lat": -3.4960586,
+    "lon": -39.5819197,
+    "metodo": "CityCenter",
+    "extra": "ITAPIPOCA, CE, Brazil"
+  },
+  "CITY_CENTER JUAZEIRO BA BRAZIL": {
+    "lat": -9.4336959,
+    "lon": -40.5068201,
+    "metodo": "CityCenter",
+    "extra": "JUAZEIRO, BA, Brazil"
+  },
+  "BRASILAPI 58808200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sousa,PB"
+  },
+  "CITY_CENTER SOUSA PB BRAZIL": {
+    "lat": -6.7662029,
+    "lon": -38.2319607,
+    "metodo": "CityCenter",
+    "extra": "SOUSA, PB, Brazil"
+  },
+  "BRASILAPI 65095603": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "CITY_CENTER TEIXEIRA DE FREITAS BA BRAZIL": {
+    "lat": -17.5384774,
+    "lon": -39.7451701,
+    "metodo": "CityCenter",
+    "extra": "TEIXEIRA DE FREITAS, BA, Brazil"
+  },
+  "BRASILAPI 45203830": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jequié,BA"
+  },
+  "CITY_CENTER JEQUIÉ BA BRAZIL": {
+    "lat": -13.8604033,
+    "lon": -40.0719627,
+    "metodo": "CityCenter",
+    "extra": "JEQUIÉ, BA, Brazil"
+  },
+  "BRASILAPI 66090363": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "CITY_CENTER BELÉM PA BRAZIL": {
+    "lat": -1.45056,
+    "lon": -48.4682453,
+    "metodo": "CityCenter",
+    "extra": "BELÉM, PA, Brazil"
+  },
+  "BRASILAPI 57038000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 62677000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Gonçalo do Amarante,CE"
+  },
+  "CITY_CENTER SÃO GONÇALO DO AMARANTE CE BRAZIL": {
+    "lat": -3.6099755,
+    "lon": -38.9687182,
+    "metodo": "CityCenter",
+    "extra": "SÃO GONÇALO DO AMARANTE, CE, Brazil"
+  },
+  "BRASILAPI 79033005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 79013545": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 31160342": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 52140005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 46400000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caetité,BA"
+  },
+  "CITY_CENTER CAETITÉ BA BRAZIL": {
+    "lat": -14.0691776,
+    "lon": -42.4852428,
+    "metodo": "CityCenter",
+    "extra": "CAETITÉ, BA, Brazil"
+  },
+  "BRASILAPI 65073780": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 22790704": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "CITY_CENTER PICOS PI BRAZIL": {
+    "lat": -7.0823544,
+    "lon": -41.4685053,
+    "metodo": "CityCenter",
+    "extra": "PICOS, PI, Brazil"
+  },
+  "CITY_CENTER CARAPICUÍBA SP BRAZIL": {
+    "lat": -23.5234673,
+    "lon": -46.8406808,
+    "metodo": "CityCenter",
+    "extra": "CARAPICUÍBA, SP, Brazil"
+  },
+  "BRASILAPI 44050782": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "BRASILAPI 11440000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Guarujá,SP"
+  },
+  "CITY_CENTER GUARUJÁ SP BRAZIL": {
+    "lat": -23.9927768,
+    "lon": -46.2558332,
+    "metodo": "CityCenter",
+    "extra": "GUARUJÁ, SP, Brazil"
+  },
+  "BRASILAPI 69040040": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Manaus,AM"
+  },
+  "BRASILAPI 74125100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goiânia,GO"
+  },
+  "BRASILAPI 15600348": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fernandópolis,SP"
+  },
+  "CITY_CENTER FERNANDÓPOLIS SP BRAZIL": {
+    "lat": -20.2825647,
+    "lon": -50.2500762,
+    "metodo": "CityCenter",
+    "extra": "FERNANDÓPOLIS, SP, Brazil"
+  },
+  "CITY_CENTER OSASCO SP BRAZIL": {
+    "lat": -23.5324859,
+    "lon": -46.7916801,
+    "metodo": "CityCenter",
+    "extra": "OSASCO, SP, Brazil"
+  },
+  "CITY_CENTER PORTO SEGURO BA BRAZIL": {
+    "lat": -16.443473,
+    "lon": -39.064251,
+    "metodo": "CityCenter",
+    "extra": "PORTO SEGURO, BA, Brazil"
+  },
+  "BRASILAPI 65071380": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 34006065": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nova Lima,MG"
+  },
+  "BRASILAPI 55034190": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caruaru,PE"
+  },
+  "BRASILAPI 53437000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paulista,PE"
+  },
+  "BRASILAPI 59067600": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Natal,RN"
+  },
+  "CITY_CENTER NATAL RN BRAZIL": {
+    "lat": -5.805398,
+    "lon": -35.2080905,
+    "metodo": "CityCenter",
+    "extra": "NATAL, RN, Brazil"
+  },
+  "BRASILAPI 78050170": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cuiabá,MT"
+  },
+  "CITY_CENTER CUIABÁ MT BRAZIL": {
+    "lat": -15.5986686,
+    "lon": -56.0991301,
+    "metodo": "CityCenter",
+    "extra": "CUIABÁ, MT, Brazil"
+  },
+  "BRASILAPI 79240000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jardim,MS"
+  },
+  "CITY_CENTER JARDIM MS BRAZIL": {
+    "lat": -21.479941,
+    "lon": -56.148902,
+    "metodo": "CityCenter",
+    "extra": "JARDIM, MS, Brazil"
+  },
+  "BRASILAPI 17507400": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Marília,SP"
+  },
+  "BRASILAPI 79101000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 44052151": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "BRASILAPI 44021215": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "BRASILAPI 65074115": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 91751000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Porto Alegre,RS"
+  },
+  "CITY_CENTER PORTO ALEGRE RS BRAZIL": {
+    "lat": -30.0324999,
+    "lon": -51.2303767,
+    "metodo": "CityCenter",
+    "extra": "PORTO ALEGRE, RS, Brazil"
+  },
+  "BRASILAPI 75380307": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Trindade,GO"
+  },
+  "CITY_CENTER TRINDADE GO BRAZIL": {
+    "lat": -16.6549924,
+    "lon": -49.4876203,
+    "metodo": "CityCenter",
+    "extra": "TRINDADE, GO, Brazil"
+  },
+  "BRASILAPI 69060020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Manaus,AM"
+  },
+  "BRASILAPI 30494310": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 78080300": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cuiabá,MT"
+  },
+  "BRASILAPI 58400180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campina Grande,PB"
+  },
+  "CITY_CENTER SALINAS MG BRAZIL": {
+    "lat": -16.1699073,
+    "lon": -42.2910368,
+    "metodo": "CityCenter",
+    "extra": "SALINAS, MG, Brazil"
+  },
+  "BRASILAPI 32370485": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "CITY_CENTER CASTANHAL PA BRAZIL": {
+    "lat": -1.2927031,
+    "lon": -47.9223903,
+    "metodo": "CityCenter",
+    "extra": "CASTANHAL, PA, Brazil"
+  },
+  "BRASILAPI 68745000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Castanhal,PA"
+  },
+  "BRASILAPI 32210110": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "BRASILAPI 78065165": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cuiabá,MT"
+  },
+  "BRASILAPI 11420000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Guarujá,SP"
+  },
+  "BRASILAPI 30112020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 60710684": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "CITY_CENTER FORTALEZA CE BRAZIL": {
+    "lat": -3.7304512,
+    "lon": -38.5217989,
+    "metodo": "CityCenter",
+    "extra": "FORTALEZA, CE, Brazil"
+  },
+  "BRASILAPI 50110000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 76820112": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Porto Velho,RO"
+  },
+  "CITY_CENTER PORTO VELHO RO BRAZIL": {
+    "lat": -8.7494525,
+    "lon": -63.8735438,
+    "metodo": "CityCenter",
+    "extra": "PORTO VELHO, RO, Brazil"
+  },
+  "BRASILAPI 35500220": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Divinópolis,MG"
+  },
+  "CITY_CENTER DIVINÓPOLIS MG BRAZIL": {
+    "lat": -20.1597921,
+    "lon": -44.8739341,
+    "metodo": "CityCenter",
+    "extra": "DIVINÓPOLIS, MG, Brazil"
+  },
+  "BRASILAPI 65056045": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 67120527": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ananindeua,PA"
+  },
+  "CITY_CENTER ANANINDEUA PA BRAZIL": {
+    "lat": -1.374035,
+    "lon": -48.4016623,
+    "metodo": "CityCenter",
+    "extra": "ANANINDEUA, PA, Brazil"
+  },
+  "BRASILAPI 58055018": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "CITY_CENTER JOÃO PESSOA PB BRAZIL": {
+    "lat": -7.1215981,
+    "lon": -34.882028,
+    "metodo": "CityCenter",
+    "extra": "JOÃO PESSOA, PB, Brazil"
+  },
+  "CITY_CENTER NOSSA SENHORA DO SOCORRO SE BRAZIL": {
+    "lat": -10.8553115,
+    "lon": -37.1264863,
+    "metodo": "CityCenter",
+    "extra": "NOSSA SENHORA DO SOCORRO, SE, Brazil"
+  },
+  "BRASILAPI 32400001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ibirité,MG"
+  },
+  "CITY_CENTER IBIRITÉ MG BRAZIL": {
+    "lat": -20.0214251,
+    "lon": -44.0621506,
+    "metodo": "CityCenter",
+    "extra": "IBIRITÉ, MG, Brazil"
+  },
+  "CITY_CENTER ANTÔNIO CARDOSO BA BRAZIL": {
+    "lat": -12.4363122,
+    "lon": -39.1200307,
+    "metodo": "CityCenter",
+    "extra": "ANTÔNIO CARDOSO, BA, Brazil"
+  },
+  "BRASILAPI 65070076": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 59610280": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Mossoró,RN"
+  },
+  "CITY_CENTER MOSSORÓ RN BRAZIL": {
+    "lat": -5.1904332,
+    "lon": -37.3443872,
+    "metodo": "CityCenter",
+    "extra": "MOSSORÓ, RN, Brazil"
+  },
+  "BRASILAPI 32341000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "BRASILAPI 65725000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Pedreiras,MA"
+  },
+  "CITY_CENTER PEDREIRAS MA BRAZIL": {
+    "lat": -4.5687989,
+    "lon": -44.6003029,
+    "metodo": "CityCenter",
+    "extra": "PEDREIRAS, MA, Brazil"
+  },
+  "BRASILAPI 79002460": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 49065450": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "BRASILAPI 26012825": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nova Iguaçu,RJ"
+  },
+  "CITY_CENTER NOVA IGUAÇU RJ BRAZIL": {
+    "lat": -22.7592175,
+    "lon": -43.4508728,
+    "metodo": "CityCenter",
+    "extra": "NOVA IGUAÇU, RJ, Brazil"
+  },
+  "BRASILAPI 19053300": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Presidente Prudente,SP"
+  },
+  "CITY_CENTER PRESIDENTE PRUDENTE SP BRAZIL": {
+    "lat": -22.1225167,
+    "lon": -51.3882528,
+    "metodo": "CityCenter",
+    "extra": "PRESIDENTE PRUDENTE, SP, Brazil"
+  },
+  "BRASILAPI 51110160": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 58414060": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campina Grande,PB"
+  },
+  "BRASILAPI 33822722": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ribeirão das Neves,MG"
+  },
+  "CITY_CENTER RIBEIRÃO DAS NEVES MG BRAZIL": {
+    "lat": -19.7672898,
+    "lon": -44.0875436,
+    "metodo": "CityCenter",
+    "extra": "RIBEIRÃO DAS NEVES, MG, Brazil"
+  },
+  "BRASILAPI 45026090": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória da Conquista,BA"
+  },
+  "BRASILAPI 27948005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Macaé,RJ"
+  },
+  "CITY_CENTER MACAÉ RJ BRAZIL": {
+    "lat": -22.2828305,
+    "lon": -41.9649091,
+    "metodo": "CityCenter",
+    "extra": "MACAÉ, RJ, Brazil"
+  },
+  "CITY_CENTER JAPERI RJ BRAZIL": {
+    "lat": -22.6427642,
+    "lon": -43.6533831,
+    "metodo": "CityCenter",
+    "extra": "JAPERI, RJ, Brazil"
+  },
+  "BRASILAPI 28030035": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campos dos Goytacazes,RJ"
+  },
+  "BRASILAPI 88310003": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itajaí,SC"
+  },
+  "CITY_CENTER ITAJAÍ SC BRAZIL": {
+    "lat": -26.9046787,
+    "lon": -48.6552979,
+    "metodo": "CityCenter",
+    "extra": "ITAJAÍ, SC, Brazil"
+  },
+  "BRASILAPI 88215000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bombinhas,SC"
+  },
+  "CITY_CENTER BOMBINHAS SC BRAZIL": {
+    "lat": -27.1519159,
+    "lon": -48.4875691,
+    "metodo": "CityCenter",
+    "extra": "BOMBINHAS, SC, Brazil"
+  },
+  "BRASILAPI 58110160": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bayeux,PB"
+  },
+  "BRASILAPI 61880320": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itaitinga,CE"
+  },
+  "CITY_CENTER ITAITINGA CE BRAZIL": {
+    "lat": -3.965768,
+    "lon": -38.529763,
+    "metodo": "CityCenter",
+    "extra": "ITAITINGA, CE, Brazil"
+  },
+  "BRASILAPI 60410321": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 14770000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Colina,SP"
+  },
+  "CITY_CENTER COLINA SP BRAZIL": {
+    "lat": -20.711443,
+    "lon": -48.53867,
+    "metodo": "CityCenter",
+    "extra": "COLINA, SP, Brazil"
+  },
+  "BRASILAPI 51150001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 68638000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rondon do Pará,PA"
+  },
+  "CITY_CENTER RONDON DO PARÁ PA BRAZIL": {
+    "lat": -4.7804416,
+    "lon": -48.06983,
+    "metodo": "CityCenter",
+    "extra": "RONDON DO PARÁ, PA, Brazil"
+  },
+  "BRASILAPI 41830000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 58102120": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cabedelo,PB"
+  },
+  "BRASILAPI 12080000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Taubaté,SP"
+  },
+  "CITY_CENTER TAUBATÉ SP BRAZIL": {
+    "lat": -23.031448,
+    "lon": -45.5612792,
+    "metodo": "CityCenter",
+    "extra": "TAUBATÉ, SP, Brazil"
+  },
+  "CITY_CENTER ITAPEMA SC BRAZIL": {
+    "lat": -27.09472,
+    "lon": -48.6137778,
+    "metodo": "CityCenter",
+    "extra": "ITAPEMA, SC, Brazil"
+  },
+  "BRASILAPI 44001008": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "BRASILAPI 65068500": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 29140501": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "CITY_CENTER CARIACICA ES BRAZIL": {
+    "lat": -20.263202,
+    "lon": -40.416549,
+    "metodo": "CityCenter",
+    "extra": "CARIACICA, ES, Brazil"
+  },
+  "BRASILAPI 55555000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Xexéu,PE"
+  },
+  "CITY_CENTER XEXÉU PE BRAZIL": {
+    "lat": -8.8036743,
+    "lon": -35.6244442,
+    "metodo": "CityCenter",
+    "extra": "XEXÉU, PE, Brazil"
+  },
+  "CITY_CENTER SANTANA DE PARNAÍBA SP BRAZIL": {
+    "lat": -23.4446715,
+    "lon": -46.9167722,
+    "metodo": "CityCenter",
+    "extra": "SANTANA DE PARNAÍBA, SP, Brazil"
+  },
+  "BRASILAPI 51200000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 79020200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 49037445": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "BRASILAPI 57083410": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 57073470": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 65075692": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 57084650": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 13077001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campinas,SP"
+  },
+  "CITY_CENTER CAMPINAS SP BRAZIL": {
+    "lat": -22.9056391,
+    "lon": -47.059564,
+    "metodo": "CityCenter",
+    "extra": "CAMPINAS, SP, Brazil"
+  },
+  "BRASILAPI 30350563": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 34000001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nova Lima,MG"
+  },
+  "BRASILAPI 30360430": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 34007134": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nova Lima,MG"
+  },
+  "CITY_CENTER BARRA DOS COQUEIROS SE BRAZIL": {
+    "lat": -10.9075694,
+    "lon": -37.0386249,
+    "metodo": "CityCenter",
+    "extra": "BARRA DOS COQUEIROS, SE, Brazil"
+  },
+  "BRASILAPI 40280000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41706690": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41650000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 60822130": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 45031000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória da Conquista,BA"
+  },
+  "BRASILAPI 45028045": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória da Conquista,BA"
+  },
+  "BRASILAPI 60732142": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 63024015": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Juazeiro do Norte,CE"
+  },
+  "CITY_CENTER JUAZEIRO DO NORTE CE BRAZIL": {
+    "lat": -7.2153453,
+    "lon": -39.3153336,
+    "metodo": "CityCenter",
+    "extra": "JUAZEIRO DO NORTE, CE, Brazil"
+  },
+  "BRASILAPI 63050423": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Juazeiro do Norte,CE"
+  },
+  "BRASILAPI 23575000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 35400000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ouro Preto,MG"
+  },
+  "CITY_CENTER OURO PRETO MG BRAZIL": {
+    "lat": -20.385527,
+    "lon": -43.5035214,
+    "metodo": "CityCenter",
+    "extra": "OURO PRETO, MG, Brazil"
+  },
+  "BRASILAPI 69040000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Manaus,AM"
+  },
+  "BRASILAPI 45652155": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 65630030": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Timon,MA"
+  },
+  "CITY_CENTER TIMON MA BRAZIL": {
+    "lat": -5.1004341,
+    "lon": -42.8312018,
+    "metodo": "CityCenter",
+    "extra": "TIMON, MA, Brazil"
+  },
+  "BRASILAPI 60811170": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 11380001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Vicente,SP"
+  },
+  "CITY_CENTER SÃO VICENTE SP BRAZIL": {
+    "lat": -23.9664177,
+    "lon": -46.3861401,
+    "metodo": "CityCenter",
+    "extra": "SÃO VICENTE, SP, Brazil"
+  },
+  "CITY_CENTER VENDA NOVA DO IMIGRANTE ES BRAZIL": {
+    "lat": -20.3325787,
+    "lon": -41.1295842,
+    "metodo": "CityCenter",
+    "extra": "VENDA NOVA DO IMIGRANTE, ES, Brazil"
+  },
+  "BRASILAPI 33200000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "CITY_CENTER VESPASIANO MG BRAZIL": {
+    "lat": -19.6940958,
+    "lon": -43.9186521,
+    "metodo": "CityCenter",
+    "extra": "VESPASIANO, MG, Brazil"
+  },
+  "BRASILAPI 13140558": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paulínia,SP"
+  },
+  "CITY_CENTER PAULÍNIA SP BRAZIL": {
+    "lat": -22.7630391,
+    "lon": -47.1532213,
+    "metodo": "CityCenter",
+    "extra": "PAULÍNIA, SP, Brazil"
+  },
+  "BRASILAPI 75104390": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Anápolis,GO"
+  },
+  "CITY_CENTER ANÁPOLIS GO BRAZIL": {
+    "lat": -16.3332828,
+    "lon": -48.9525756,
+    "metodo": "CityCenter",
+    "extra": "ANÁPOLIS, GO, Brazil"
+  },
+  "BRASILAPI 65630020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Timon,MA"
+  },
+  "BRASILAPI 14095000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ribeirão Preto,SP"
+  },
+  "CITY_CENTER RIBEIRÃO PRETO SP BRAZIL": {
+    "lat": -21.1776315,
+    "lon": -47.8100983,
+    "metodo": "CityCenter",
+    "extra": "RIBEIRÃO PRETO, SP, Brazil"
+  },
+  "BRASILAPI 58030000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "BRASILAPI 96040000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Pelotas,RS"
+  },
+  "CITY_CENTER PELOTAS RS BRAZIL": {
+    "lat": -31.7699736,
+    "lon": -52.3410161,
+    "metodo": "CityCenter",
+    "extra": "PELOTAS, RS, Brazil"
+  },
+  "BRASILAPI 14095210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ribeirão Preto,SP"
+  },
+  "BRASILAPI 25020001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Duque de Caxias,RJ"
+  },
+  "BRASILAPI 13333000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Indaiatuba,SP"
+  },
+  "CITY_CENTER INDAIATUBA SP BRAZIL": {
+    "lat": -23.0908356,
+    "lon": -47.2180677,
+    "metodo": "CityCenter",
+    "extra": "INDAIATUBA, SP, Brazil"
+  },
+  "BRASILAPI 11705000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Praia Grande,SP"
+  },
+  "CITY_CENTER PRAIA GRANDE SP BRAZIL": {
+    "lat": -24.008979,
+    "lon": -46.4144939,
+    "metodo": "CityCenter",
+    "extra": "PRAIA GRANDE, SP, Brazil"
+  },
+  "BRASILAPI 78705000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rondonópolis,MT"
+  },
+  "BRASILAPI 79112010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 35660970": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Pará de Minas,MG"
+  },
+  "CITY_CENTER PARÁ DE MINAS MG BRAZIL": {
+    "lat": -19.8668656,
+    "lon": -44.5912664,
+    "metodo": "CityCenter",
+    "extra": "PARÁ DE MINAS, MG, Brazil"
+  },
+  "BRASILAPI 13339125": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Indaiatuba,SP"
+  },
+  "BRASILAPI 88780000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Imbituba,SC"
+  },
+  "CITY_CENTER IMBITUBA SC BRAZIL": {
+    "lat": -28.241827,
+    "lon": -48.6643444,
+    "metodo": "CityCenter",
+    "extra": "IMBITUBA, SC, Brazil"
+  },
+  "BRASILAPI 45607000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itabuna,BA"
+  },
+  "BRASILAPI 65138000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Raposa,MA"
+  },
+  "CITY_CENTER RAPOSA MA BRAZIL": {
+    "lat": -2.4410095,
+    "lon": -44.1104256,
+    "metodo": "CityCenter",
+    "extra": "RAPOSA, MA, Brazil"
+  },
+  "BRASILAPI 11660971": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caraguatatuba,SP"
+  },
+  "CITY_CENTER CARAGUATATUBA SP BRAZIL": {
+    "lat": -23.62028,
+    "lon": -45.41306,
+    "metodo": "CityCenter",
+    "extra": "CARAGUATATUBA, SP, Brazil"
+  },
+  "CITY_CENTER CAIEIRAS SP BRAZIL": {
+    "lat": -23.3644621,
+    "lon": -46.7484765,
+    "metodo": "CityCenter",
+    "extra": "CAIEIRAS, SP, Brazil"
+  },
+  "BRASILAPI 60420432": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "CITY_CENTER PETROLINA PE BRAZIL": {
+    "lat": -9.3817334,
+    "lon": -40.4968875,
+    "metodo": "CityCenter",
+    "extra": "PETROLINA, PE, Brazil"
+  },
+  "BRASILAPI 30380002": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 79613000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Três Lagoas,MS"
+  },
+  "BRASILAPI 64049560": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Teresina,PI"
+  },
+  "CITY_CENTER TERESINA PI BRAZIL": {
+    "lat": -5.0874608,
+    "lon": -42.8049571,
+    "metodo": "CityCenter",
+    "extra": "TERESINA, PI, Brazil"
+  },
+  "BRASILAPI 14170585": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sertãozinho,SP"
+  },
+  "CITY_CENTER SERTÃOZINHO SP BRAZIL": {
+    "lat": -21.1375782,
+    "lon": -47.9913741,
+    "metodo": "CityCenter",
+    "extra": "SERTÃOZINHO, SP, Brazil"
+  },
+  "BRASILAPI 40110100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 65590000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Barreirinhas,MA"
+  },
+  "CITY_CENTER BARREIRINHAS MA BRAZIL": {
+    "lat": -2.7541271,
+    "lon": -42.8259693,
+    "metodo": "CityCenter",
+    "extra": "BARREIRINHAS, MA, Brazil"
+  },
+  "BRASILAPI 78700130": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rondonópolis,MT"
+  },
+  "BRASILAPI 38800000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Gotardo,MG"
+  },
+  "CITY_CENTER SÃO GOTARDO MG BRAZIL": {
+    "lat": -19.3168844,
+    "lon": -46.0476596,
+    "metodo": "CityCenter",
+    "extra": "SÃO GOTARDO, MG, Brazil"
+  },
+  "BRASILAPI 53525030": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Abreu e Lima,PE"
+  },
+  "BRASILAPI 83040564": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José dos Pinhais,PR"
+  },
+  "CITY_CENTER SÃO JOSÉ DOS PINHAIS PR BRAZIL": {
+    "lat": -25.533816,
+    "lon": -49.2072163,
+    "metodo": "CityCenter",
+    "extra": "SÃO JOSÉ DOS PINHAIS, PR, Brazil"
+  },
+  "BRASILAPI 13403825": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Piracicaba,SP"
+  },
+  "BRASILAPI 29102041": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vila Velha,ES"
+  },
+  "CITY_CENTER VILA VELHA ES BRAZIL": {
+    "lat": -20.3297037,
+    "lon": -40.2920174,
+    "metodo": "CityCenter",
+    "extra": "VILA VELHA, ES, Brazil"
+  },
+  "BRASILAPI 40279150": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 42702400": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lauro de Freitas,BA"
+  },
+  "BRASILAPI 32450000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sarzedo,MG"
+  },
+  "CITY_CENTER SARZEDO MG BRAZIL": {
+    "lat": -20.0353,
+    "lon": -44.1453,
+    "metodo": "CityCenter",
+    "extra": "SARZEDO, MG, Brazil"
+  },
+  "BRASILAPI 13502100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio Claro,SP"
+  },
+  "CITY_CENTER RIO CLARO SP BRAZIL": {
+    "lat": -22.4100108,
+    "lon": -47.5603933,
+    "metodo": "CityCenter",
+    "extra": "RIO CLARO, SP, Brazil"
+  },
+  "CITY_CENTER SOROCABA SP BRAZIL": {
+    "lat": -23.5003451,
+    "lon": -47.4582864,
+    "metodo": "CityCenter",
+    "extra": "SOROCABA, SP, Brazil"
+  },
+  "BRASILAPI 60356392": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 66050000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 13013061": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campinas,SP"
+  },
+  "BRASILAPI 60355503": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "CITY_CENTER SÃO BERNARDO DO CAMPO SP BRAZIL": {
+    "lat": -23.7080345,
+    "lon": -46.5506747,
+    "metodo": "CityCenter",
+    "extra": "SÃO BERNARDO DO CAMPO, SP, Brazil"
+  },
+  "BRASILAPI 40080002": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 88301200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itajaí,SC"
+  },
+  "CITY_CENTER SERRA ES BRAZIL": {
+    "lat": -20.1252961,
+    "lon": -40.3064477,
+    "metodo": "CityCenter",
+    "extra": "SERRA, ES, Brazil"
+  },
+  "BRASILAPI 49025100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "BRASILAPI 57010000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 41820908": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 66615005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 57360000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Girau do Ponciano,AL"
+  },
+  "CITY_CENTER GIRAU DO PONCIANO AL BRAZIL": {
+    "lat": -9.884041,
+    "lon": -36.831592,
+    "metodo": "CityCenter",
+    "extra": "GIRAU DO PONCIANO, AL, Brazil"
+  },
+  "BRASILAPI 74866030": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goiânia,GO"
+  },
+  "BRASILAPI 13419320": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Piracicaba,SP"
+  },
+  "BRASILAPI 41213000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 13201160": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jundiaí,SP"
+  },
+  "CITY_CENTER JUNDIAÍ SP BRAZIL": {
+    "lat": -23.1887668,
+    "lon": -46.884506,
+    "metodo": "CityCenter",
+    "extra": "JUNDIAÍ, SP, Brazil"
+  },
+  "CITY_CENTER MATUPÁ MT BRAZIL": {
+    "lat": -10.1683242,
+    "lon": -54.9346194,
+    "metodo": "CityCenter",
+    "extra": "MATUPÁ, MT, Brazil"
+  },
+  "BRASILAPI 56906010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Serra Talhada,PE"
+  },
+  "CITY_CENTER SERRA TALHADA PE BRAZIL": {
+    "lat": -7.9867805,
+    "lon": -38.2920294,
+    "metodo": "CityCenter",
+    "extra": "SERRA TALHADA, PE, Brazil"
+  },
+  "BRASILAPI 60810350": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 68537000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Canaã dos Carajás,PA"
+  },
+  "CITY_CENTER CANAÃ DOS CARAJÁS PA BRAZIL": {
+    "lat": -6.5296837,
+    "lon": -49.8516592,
+    "metodo": "CityCenter",
+    "extra": "CANAÃ DOS CARAJÁS, PA, Brazil"
+  },
+  "BRASILAPI 64073020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Teresina,PI"
+  },
+  "BRASILAPI 29230000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Anchieta,ES"
+  },
+  "CITY_CENTER ANCHIETA ES BRAZIL": {
+    "lat": -20.8057672,
+    "lon": -40.6454564,
+    "metodo": "CityCenter",
+    "extra": "ANCHIETA, ES, Brazil"
+  },
+  "BRASILAPI 57442000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Olho D'Água das Flores,AL"
+  },
+  "CITY_CENTER OLHO D ÁGUA DAS FLORES AL BRAZIL": {
+    "lat": -9.5318374,
+    "lon": -37.2939052,
+    "metodo": "CityCenter",
+    "extra": "OLHO D'ÁGUA DAS FLORES, AL, Brazil"
+  },
+  "BRASILAPI 57280000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Igreja Nova,AL"
+  },
+  "CITY_CENTER IGREJA NOVA AL BRAZIL": {
+    "lat": -10.1267244,
+    "lon": -36.658151,
+    "metodo": "CityCenter",
+    "extra": "IGREJA NOVA, AL, Brazil"
+  },
+  "BRASILAPI 28015020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campos dos Goytacazes,RJ"
+  },
+  "BRASILAPI 79104260": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 33239210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lagoa Santa,MG"
+  },
+  "CITY_CENTER LAGOA SANTA MG BRAZIL": {
+    "lat": -19.6357376,
+    "lon": -43.8966132,
+    "metodo": "CityCenter",
+    "extra": "LAGOA SANTA, MG, Brazil"
+  },
+  "BRASILAPI 50810000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 40470630": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 66040020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 78135626": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Várzea Grande,MT"
+  },
+  "CITY_CENTER VÁRZEA GRANDE MT BRAZIL": {
+    "lat": -15.645816,
+    "lon": -56.132218,
+    "metodo": "CityCenter",
+    "extra": "VÁRZEA GRANDE, MT, Brazil"
+  },
+  "BRASILAPI 35930002": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Monlevade,MG"
+  },
+  "CITY_CENTER JOÃO MONLEVADE MG BRAZIL": {
+    "lat": -19.809444,
+    "lon": -43.173334,
+    "metodo": "CityCenter",
+    "extra": "JOÃO MONLEVADE, MG, Brazil"
+  },
+  "CITY_CENTER PENEDO AL BRAZIL": {
+    "lat": -10.2872341,
+    "lon": -36.5819262,
+    "metodo": "CityCenter",
+    "extra": "PENEDO, AL, Brazil"
+  },
+  "BRASILAPI 41950000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41820000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 13424022": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Piracicaba,SP"
+  },
+  "BRASILAPI 75340000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Hidrolândia,GO"
+  },
+  "CITY_CENTER HIDROLÂNDIA GO BRAZIL": {
+    "lat": -16.9671342,
+    "lon": -49.22826,
+    "metodo": "CityCenter",
+    "extra": "HIDROLÂNDIA, GO, Brazil"
+  },
+  "CITY_CENTER SÃO MATEUS DO MARANHÃO MA BRAZIL": {
+    "lat": -4.0289169,
+    "lon": -44.4667342,
+    "metodo": "CityCenter",
+    "extra": "SÃO MATEUS DO MARANHÃO, MA, Brazil"
+  },
+  "BRASILAPI 60135102": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 51020280": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 33250033": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Pedro Leopoldo,MG"
+  },
+  "CITY_CENTER PEDRO LEOPOLDO MG BRAZIL": {
+    "lat": -19.617778,
+    "lon": -44.043055,
+    "metodo": "CityCenter",
+    "extra": "PEDRO LEOPOLDO, MG, Brazil"
+  },
+  "BRASILAPI 68551000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Redenção,PA"
+  },
+  "CITY_CENTER REDENÇÃO PA BRAZIL": {
+    "lat": -8.0299327,
+    "lon": -50.0309543,
+    "metodo": "CityCenter",
+    "extra": "REDENÇÃO, PA, Brazil"
+  },
+  "BRASILAPI 77001014": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Palmas,TO"
+  },
+  "CITY_CENTER PALMAS TO BRAZIL": {
+    "lat": -10.1837852,
+    "lon": -48.3336423,
+    "metodo": "CityCenter",
+    "extra": "PALMAS, TO, Brazil"
+  },
+  "BRASILAPI 76350000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rubiataba,GO"
+  },
+  "CITY_CENTER RUBIATABA GO BRAZIL": {
+    "lat": -15.1629793,
+    "lon": -49.8005102,
+    "metodo": "CityCenter",
+    "extra": "RUBIATABA, GO, Brazil"
+  },
+  "BRASILAPI 11726500": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Praia Grande,SP"
+  },
+  "BRASILAPI 22775003": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 59151610": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Parnamirim,RN"
+  },
+  "CITY_CENTER PARNAMIRIM RN BRAZIL": {
+    "lat": -5.9153334,
+    "lon": -35.2679913,
+    "metodo": "CityCenter",
+    "extra": "PARNAMIRIM, RN, Brazil"
+  },
+  "BRASILAPI 74280160": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goiânia,GO"
+  },
+  "CITY_CENTER SANTO ANDRÉ SP BRAZIL": {
+    "lat": -23.6533509,
+    "lon": -46.5279039,
+    "metodo": "CityCenter",
+    "extra": "SANTO ANDRÉ, SP, Brazil"
+  },
+  "BRASILAPI 35447000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Barra Longa,MG"
+  },
+  "CITY_CENTER BARRA LONGA MG BRAZIL": {
+    "lat": -20.2833541,
+    "lon": -43.0423516,
+    "metodo": "CityCenter",
+    "extra": "BARRA LONGA, MG, Brazil"
+  },
+  "CITY_CENTER SANTA CRUZ DO CAPIBARIBE PE BRAZIL": {
+    "lat": -7.948019,
+    "lon": -36.206092,
+    "metodo": "CityCenter",
+    "extra": "SANTA CRUZ DO CAPIBARIBE, PE, Brazil"
+  },
+  "CITY_CENTER RIBEIRÃO PE BRAZIL": {
+    "lat": -8.5066761,
+    "lon": -35.3747339,
+    "metodo": "CityCenter",
+    "extra": "RIBEIRÃO, PE, Brazil"
+  },
+  "BRASILAPI 79900404": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ponta Porã,MS"
+  },
+  "CITY_CENTER PONTA PORÃ MS BRAZIL": {
+    "lat": -22.5286917,
+    "lon": -55.723426,
+    "metodo": "CityCenter",
+    "extra": "PONTA PORÃ, MS, Brazil"
+  },
+  "BRASILAPI 32603075": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Betim,MG"
+  },
+  "CITY_CENTER BETIM MG BRAZIL": {
+    "lat": -19.9475338,
+    "lon": -44.1995361,
+    "metodo": "CityCenter",
+    "extra": "BETIM, MG, Brazil"
+  },
+  "BRASILAPI 15130000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "CITY_CENTER MIRASSOL SP BRAZIL": {
+    "lat": -20.8141411,
+    "lon": -49.507449,
+    "metodo": "CityCenter",
+    "extra": "MIRASSOL, SP, Brazil"
+  },
+  "BRASILAPI 60325003": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 13468000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Americana,SP"
+  },
+  "CITY_CENTER AMERICANA SP BRAZIL": {
+    "lat": -22.7392463,
+    "lon": -47.3306032,
+    "metodo": "CityCenter",
+    "extra": "AMERICANA, SP, Brazil"
+  },
+  "BRASILAPI 79904698": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ponta Porã,MS"
+  },
+  "BRASILAPI 35675000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Juatuba,MG"
+  },
+  "CITY_CENTER JUATUBA MG BRAZIL": {
+    "lat": -19.954001,
+    "lon": -44.3407921,
+    "metodo": "CityCenter",
+    "extra": "JUATUBA, MG, Brazil"
+  },
+  "BRASILAPI 18130485": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Roque,SP"
+  },
+  "CITY_CENTER SÃO ROQUE SP BRAZIL": {
+    "lat": -23.5304843,
+    "lon": -47.1355473,
+    "metodo": "CityCenter",
+    "extra": "SÃO ROQUE, SP, Brazil"
+  },
+  "BRASILAPI 23575202": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 33120483": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santa Luzia,MG"
+  },
+  "CITY_CENTER SANTA LUZIA MG BRAZIL": {
+    "lat": -19.7702097,
+    "lon": -43.8505291,
+    "metodo": "CityCenter",
+    "extra": "SANTA LUZIA, MG, Brazil"
+  },
+  "BRASILAPI 68575000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Piçarra,PA"
+  },
+  "CITY_CENTER PIÇARRA PA BRAZIL": {
+    "lat": -6.4475822,
+    "lon": -48.8633795,
+    "metodo": "CityCenter",
+    "extra": "PIÇARRA, PA, Brazil"
+  },
+  "BRASILAPI 50870180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 13091000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campinas,SP"
+  },
+  "BRASILAPI 63508120": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Iguatu,CE"
+  },
+  "CITY_CENTER IGUATU CE BRAZIL": {
+    "lat": -6.361934,
+    "lon": -39.2972233,
+    "metodo": "CityCenter",
+    "extra": "IGUATU, CE, Brazil"
+  },
+  "BRASILAPI 65268000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cururupu,MA"
+  },
+  "CITY_CENTER CURURUPU MA BRAZIL": {
+    "lat": -1.824255,
+    "lon": -44.872996,
+    "metodo": "CityCenter",
+    "extra": "CURURUPU, MA, Brazil"
+  },
+  "BRASILAPI 40140902": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 88805000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Criciúma,SC"
+  },
+  "CITY_CENTER CRICIÚMA SC BRAZIL": {
+    "lat": -28.6789941,
+    "lon": -49.3695627,
+    "metodo": "CityCenter",
+    "extra": "CRICIÚMA, SC, Brazil"
+  },
+  "BRASILAPI 45200970": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jequié,BA"
+  },
+  "BRASILAPI 38401119": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Uberlândia,MG"
+  },
+  "BRASILAPI 29101410": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vila Velha,ES"
+  },
+  "CITY_CENTER MARANGUAPE CE BRAZIL": {
+    "lat": -3.8922967,
+    "lon": -38.6835427,
+    "metodo": "CityCenter",
+    "extra": "MARANGUAPE, CE, Brazil"
+  },
+  "BRASILAPI 81530434": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Curitiba,PR"
+  },
+  "CITY_CENTER CURITIBA PR BRAZIL": {
+    "lat": -25.4295963,
+    "lon": -49.2712724,
+    "metodo": "CityCenter",
+    "extra": "CURITIBA, PR, Brazil"
+  },
+  "BRASILAPI 57037285": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "CITY_CENTER SÃO CAETANO DO SUL SP BRAZIL": {
+    "lat": -23.6195923,
+    "lon": -46.5688323,
+    "metodo": "CityCenter",
+    "extra": "SÃO CAETANO DO SUL, SP, Brazil"
+  },
+  "BRASILAPI 49400000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lagarto,SE"
+  },
+  "CITY_CENTER LAGARTO SE BRAZIL": {
+    "lat": -10.914501,
+    "lon": -37.6711105,
+    "metodo": "CityCenter",
+    "extra": "LAGARTO, SE, Brazil"
+  },
+  "BRASILAPI 68590000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jacundá,PA"
+  },
+  "CITY_CENTER JACUNDÁ PA BRAZIL": {
+    "lat": -4.446173,
+    "lon": -49.115272,
+    "metodo": "CityCenter",
+    "extra": "JACUNDÁ, PA, Brazil"
+  },
+  "BRASILAPI 79210000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Anastácio,MS"
+  },
+  "CITY_CENTER ANASTÁCIO MS BRAZIL": {
+    "lat": -20.4832458,
+    "lon": -55.8048448,
+    "metodo": "CityCenter",
+    "extra": "ANASTÁCIO, MS, Brazil"
+  },
+  "BRASILAPI 52171460": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 59066180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Natal,RN"
+  },
+  "BRASILAPI 22793082": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 22790703": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 22793081": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 39404621": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Montes Claros,MG"
+  },
+  "CITY_CENTER MONTES CLAROS MG BRAZIL": {
+    "lat": -16.7495727,
+    "lon": -43.8687268,
+    "metodo": "CityCenter",
+    "extra": "MONTES CLAROS, MG, Brazil"
+  },
+  "CITY_CENTER EUNÁPOLIS BA BRAZIL": {
+    "lat": -16.3766148,
+    "lon": -39.586449,
+    "metodo": "CityCenter",
+    "extra": "EUNÁPOLIS, BA, Brazil"
+  },
+  "BRASILAPI 57601370": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Palmeira dos Índios,AL"
+  },
+  "CITY_CENTER PALMEIRA DOS ÍNDIOS AL BRAZIL": {
+    "lat": -9.4076249,
+    "lon": -36.6323616,
+    "metodo": "CityCenter",
+    "extra": "PALMEIRA DOS ÍNDIOS, AL, Brazil"
+  },
+  "BRASILAPI 64020338": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Teresina,PI"
+  },
+  "BRASILAPI 60170002": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "CITY_CENTER PAÇO DO LUMIAR MA BRAZIL": {
+    "lat": -2.5329055,
+    "lon": -44.1591965,
+    "metodo": "CityCenter",
+    "extra": "PAÇO DO LUMIAR, MA, Brazil"
+  },
+  "BRASILAPI 13877757": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São João da Boa Vista,SP"
+  },
+  "CITY_CENTER SÃO JOÃO DA BOA VISTA SP BRAZIL": {
+    "lat": -21.9687099,
+    "lon": -46.7969216,
+    "metodo": "CityCenter",
+    "extra": "SÃO JOÃO DA BOA VISTA, SP, Brazil"
+  },
+  "BRASILAPI 79170000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sidrolândia,MS"
+  },
+  "CITY_CENTER SIDROLÂNDIA MS BRAZIL": {
+    "lat": -20.9361042,
+    "lon": -54.9640262,
+    "metodo": "CityCenter",
+    "extra": "SIDROLÂNDIA, MS, Brazil"
+  },
+  "BRASILAPI 79150000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maracaju,MS"
+  },
+  "BRASILAPI 59080105": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Natal,RN"
+  },
+  "BRASILAPI 65085581": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "CITY_CENTER CAMARAGIBE PE BRAZIL": {
+    "lat": -8.0213832,
+    "lon": -34.9810768,
+    "metodo": "CityCenter",
+    "extra": "CAMARAGIBE, PE, Brazil"
+  },
+  "BRASILAPI 35930312": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Monlevade,MG"
+  },
+  "BRASILAPI 35680037": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itaúna,MG"
+  },
+  "BRASILAPI 66087810": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 88308001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itajaí,SC"
+  },
+  "BRASILAPI 79076168": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 88308000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itajaí,SC"
+  },
+  "BRASILAPI 79094000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 34800000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caeté,MG"
+  },
+  "CITY_CENTER CAETÉ MG BRAZIL": {
+    "lat": -19.897777,
+    "lon": -43.670278,
+    "metodo": "CityCenter",
+    "extra": "CAETÉ, MG, Brazil"
+  },
+  "BRASILAPI 57316010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Arapiraca,AL"
+  },
+  "CITY_CENTER ARAPIRACA AL BRAZIL": {
+    "lat": -9.754866,
+    "lon": -36.661471,
+    "metodo": "CityCenter",
+    "extra": "ARAPIRACA, AL, Brazil"
+  },
+  "CITY_CENTER SÃO MIGUEL DO GUAMÁ PA BRAZIL": {
+    "lat": -1.6116804,
+    "lon": -47.4757551,
+    "metodo": "CityCenter",
+    "extra": "SÃO MIGUEL DO GUAMÁ, PA, Brazil"
+  },
+  "BRASILAPI 88210000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Porto Belo,SC"
+  },
+  "CITY_CENTER PORTO BELO SC BRAZIL": {
+    "lat": -27.1542415,
+    "lon": -48.5424395,
+    "metodo": "CityCenter",
+    "extra": "PORTO BELO, SC, Brazil"
+  },
+  "BRASILAPI 60740002": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 57080128": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 44090156": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "BRASILAPI 45450000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Gandu,BA"
+  },
+  "CITY_CENTER GANDU BA BRAZIL": {
+    "lat": -13.7448138,
+    "lon": -39.4844732,
+    "metodo": "CityCenter",
+    "extra": "GANDU, BA, Brazil"
+  },
+  "BRASILAPI 59570000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ceará-Mirim,RN"
+  },
+  "CITY_CENTER CEARÁ MIRIM RN BRAZIL": {
+    "lat": -5.633588,
+    "lon": -35.4248407,
+    "metodo": "CityCenter",
+    "extra": "CEARÁ-MIRIM, RN, Brazil"
+  },
+  "BRASILAPI 79500000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paranaíba,MS"
+  },
+  "CITY_CENTER PARANAÍBA MS BRAZIL": {
+    "lat": -19.6751971,
+    "lon": -51.1874986,
+    "metodo": "CityCenter",
+    "extra": "PARANAÍBA, MS, Brazil"
+  },
+  "BRASILAPI 37200000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "CITY_CENTER LAVRAS MG BRAZIL": {
+    "lat": -21.2425512,
+    "lon": -44.9991978,
+    "metodo": "CityCenter",
+    "extra": "LAVRAS, MG, Brazil"
+  },
+  "BRASILAPI 32280340": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "BRASILAPI 57052403": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 15040300": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José do Rio Preto,SP"
+  },
+  "BRASILAPI 27525598": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Resende,RJ"
+  },
+  "CITY_CENTER RESENDE RJ BRAZIL": {
+    "lat": -22.4418699,
+    "lon": -44.4204847,
+    "metodo": "CityCenter",
+    "extra": "RESENDE, RJ, Brazil"
+  },
+  "BRASILAPI 58039010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "BRASILAPI 44076405": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "BRASILAPI 66060232": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 57607280": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Palmeira dos Índios,AL"
+  },
+  "BRASILAPI 78056022": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cuiabá,MT"
+  },
+  "BRASILAPI 78048482": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cuiabá,MT"
+  },
+  "BRASILAPI 49001377": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "BRASILAPI 17048011": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bauru,SP"
+  },
+  "BRASILAPI 96203000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio Grande,RS"
+  },
+  "CITY_CENTER RIO GRANDE RS BRAZIL": {
+    "lat": -32.0334252,
+    "lon": -52.0991297,
+    "metodo": "CityCenter",
+    "extra": "RIO GRANDE, RS, Brazil"
+  },
+  "BRASILAPI 18076005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sorocaba,SP"
+  },
+  "BRASILAPI 40050001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 11776772": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Peruíbe,SP"
+  },
+  "CITY_CENTER PERUÍBE SP BRAZIL": {
+    "lat": -24.3218105,
+    "lon": -46.9977452,
+    "metodo": "CityCenter",
+    "extra": "PERUÍBE, SP, Brazil"
+  },
+  "BRASILAPI 33230294": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lagoa Santa,MG"
+  },
+  "BRASILAPI 50050902": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 65400000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Codó,MA"
+  },
+  "CITY_CENTER CODÓ MA BRAZIL": {
+    "lat": -4.455623,
+    "lon": -43.892354,
+    "metodo": "CityCenter",
+    "extra": "CODÓ, MA, Brazil"
+  },
+  "BRASILAPI 64053010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Teresina,PI"
+  },
+  "BRASILAPI 64045000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Teresina,PI"
+  },
+  "BRASILAPI 15200000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "José Bonifácio,SP"
+  },
+  "CITY_CENTER JOSÉ BONIFÁCIO SP BRAZIL": {
+    "lat": -21.055062,
+    "lon": -49.689233,
+    "metodo": "CityCenter",
+    "extra": "JOSÉ BONIFÁCIO, SP, Brazil"
+  },
+  "BRASILAPI 77061002": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Palmas,TO"
+  },
+  "BRASILAPI 42800311": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Camaçari,BA"
+  },
+  "BRASILAPI 24451715": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Gonçalo,RJ"
+  },
+  "CITY_CENTER SÃO GONÇALO RJ BRAZIL": {
+    "lat": -22.821635,
+    "lon": -42.9956797,
+    "metodo": "CityCenter",
+    "extra": "SÃO GONÇALO, RJ, Brazil"
+  },
+  "BRASILAPI 88340206": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Camboriú,SC"
+  },
+  "CITY_CENTER CAMBORIÚ SC BRAZIL": {
+    "lat": -27.0273601,
+    "lon": -48.6535657,
+    "metodo": "CityCenter",
+    "extra": "CAMBORIÚ, SC, Brazil"
+  },
+  "BRASILAPI 11666000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caraguatatuba,SP"
+  },
+  "BRASILAPI 13140707": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paulínia,SP"
+  },
+  "BRASILAPI 78158034": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Várzea Grande,MT"
+  },
+  "BRASILAPI 40295140": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41940060": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "CITY_CENTER DELMIRO GOUVEIA AL BRAZIL": {
+    "lat": -9.3841161,
+    "lon": -37.997756,
+    "metodo": "CityCenter",
+    "extra": "DELMIRO GOUVEIA, AL, Brazil"
+  },
+  "BRASILAPI 13481773": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Limeira,SP"
+  },
+  "CITY_CENTER LIMEIRA SP BRAZIL": {
+    "lat": -22.5615068,
+    "lon": -47.401766,
+    "metodo": "CityCenter",
+    "extra": "LIMEIRA, SP, Brazil"
+  },
+  "BRASILAPI 41680000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 53240540": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Olinda,PE"
+  },
+  "BRASILAPI 26210000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nova Iguaçu,RJ"
+  },
+  "CITY_CENTER BALNEÁRIO CAMBORIÚ SC BRAZIL": {
+    "lat": -26.9924395,
+    "lon": -48.6339782,
+    "metodo": "CityCenter",
+    "extra": "BALNEÁRIO CAMBORIÚ, SC, Brazil"
+  },
+  "BRASILAPI 29146000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cariacica,ES"
+  },
+  "BRASILAPI 29050945": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória,ES"
+  },
+  "BRASILAPI 56302290": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Petrolina,PE"
+  },
+  "BRASILAPI 49032490": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "BRASILAPI 17012202": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bauru,SP"
+  },
+  "BRASILAPI 52110005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 57317506": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Arapiraca,AL"
+  },
+  "BRASILAPI 30140082": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 13208056": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jundiaí,SP"
+  },
+  "BRASILAPI 45058000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória da Conquista,BA"
+  },
+  "BRASILAPI 60873830": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 58337000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cruz do Espírito Santo,PB"
+  },
+  "CITY_CENTER CRUZ DO ESPÍRITO SANTO PB BRAZIL": {
+    "lat": -7.139022,
+    "lon": -35.085721,
+    "metodo": "CityCenter",
+    "extra": "CRUZ DO ESPÍRITO SANTO, PB, Brazil"
+  },
+  "BRASILAPI 13468890": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Americana,SP"
+  },
+  "BRASILAPI 38700046": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Patos de Minas,MG"
+  },
+  "CITY_CENTER PATOS DE MINAS MG BRAZIL": {
+    "lat": -18.6041453,
+    "lon": -46.5096698,
+    "metodo": "CityCenter",
+    "extra": "PATOS DE MINAS, MG, Brazil"
+  },
+  "BRASILAPI 60740000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 96810408": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santa Cruz do Sul,RS"
+  },
+  "CITY_CENTER SANTA CRUZ DO SUL RS BRAZIL": {
+    "lat": -29.714209,
+    "lon": -52.4285807,
+    "metodo": "CityCenter",
+    "extra": "SANTA CRUZ DO SUL, RS, Brazil"
+  },
+  "BRASILAPI 65580000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Tutóia,MA"
+  },
+  "CITY_CENTER TUTÓIA MA BRAZIL": {
+    "lat": -2.761413,
+    "lon": -42.275531,
+    "metodo": "CityCenter",
+    "extra": "TUTÓIA, MA, Brazil"
+  },
+  "BRASILAPI 18162742": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salto de Pirapora,SP"
+  },
+  "CITY_CENTER SALTO DE PIRAPORA SP BRAZIL": {
+    "lat": -23.6492502,
+    "lon": -47.5729465,
+    "metodo": "CityCenter",
+    "extra": "SALTO DE PIRAPORA, SP, Brazil"
+  },
+  "BRASILAPI 18132295": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Roque,SP"
+  },
+  "BRASILAPI 58410185": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campina Grande,PB"
+  },
+  "BRASILAPI 37410001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Três Corações,MG"
+  },
+  "CITY_CENTER TRÊS CORAÇÕES MG BRAZIL": {
+    "lat": -21.695625,
+    "lon": -45.2543675,
+    "metodo": "CityCenter",
+    "extra": "TRÊS CORAÇÕES, MG, Brazil"
+  },
+  "BRASILAPI 50910380": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 78730232": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rondonópolis,MT"
+  },
+  "BRASILAPI 55016035": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caruaru,PE"
+  },
+  "CITY_CENTER GUANAMBI BA BRAZIL": {
+    "lat": -14.223066,
+    "lon": -42.779943,
+    "metodo": "CityCenter",
+    "extra": "GUANAMBI, BA, Brazil"
+  },
+  "BRASILAPI 13720000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José do Rio Pardo,SP"
+  },
+  "CITY_CENTER SÃO JOSÉ DO RIO PARDO SP BRAZIL": {
+    "lat": -21.595288,
+    "lon": -46.887303,
+    "metodo": "CityCenter",
+    "extra": "SÃO JOSÉ DO RIO PARDO, SP, Brazil"
+  },
+  "BRASILAPI 42710860": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Lauro de Freitas,BA"
+  },
+  "BRASILAPI 41253190": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 68721000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salinópolis,PA"
+  },
+  "CITY_CENTER SALINÓPOLIS PA BRAZIL": {
+    "lat": -0.6259282,
+    "lon": -47.3442819,
+    "metodo": "CityCenter",
+    "extra": "SALINÓPOLIS, PA, Brazil"
+  },
+  "BRASILAPI 68903193": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Macapá,AP"
+  },
+  "CITY_CENTER MACAPÁ AP BRAZIL": {
+    "lat": 0.0401529,
+    "lon": -51.0569588,
+    "metodo": "CityCenter",
+    "extra": "MACAPÁ, AP, Brazil"
+  },
+  "BRASILAPI 36300002": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São João Del Rei,MG"
+  },
+  "CITY_CENTER SÃO JOÃO DEL REI MG BRAZIL": {
+    "lat": -21.1335755,
+    "lon": -44.2588086,
+    "metodo": "CityCenter",
+    "extra": "SÃO JOÃO DEL REI, MG, Brazil"
+  },
+  "BRASILAPI 38183244": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Araxá,MG"
+  },
+  "CITY_CENTER ARAXÁ MG BRAZIL": {
+    "lat": -19.6009149,
+    "lon": -46.940923,
+    "metodo": "CityCenter",
+    "extra": "ARAXÁ, MG, Brazil"
+  },
+  "BRASILAPI 20551055": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 60191070": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 95520000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Osório,RS"
+  },
+  "CITY_CENTER OSÓRIO RS BRAZIL": {
+    "lat": -29.8890733,
+    "lon": -50.2740498,
+    "metodo": "CityCenter",
+    "extra": "OSÓRIO, RS, Brazil"
+  },
+  "CITY_CENTER PALHOÇA SC BRAZIL": {
+    "lat": -27.6447774,
+    "lon": -48.6646323,
+    "metodo": "CityCenter",
+    "extra": "PALHOÇA, SC, Brazil"
+  },
+  "BRASILAPI 93212220": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sapucaia do Sul,RS"
+  },
+  "CITY_CENTER SAPUCAIA DO SUL RS BRAZIL": {
+    "lat": -29.8197019,
+    "lon": -51.1608722,
+    "metodo": "CityCenter",
+    "extra": "SAPUCAIA DO SUL, RS, Brazil"
+  },
+  "BRASILAPI 89160000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "CITY_CENTER RIO DO SUL SC BRAZIL": {
+    "lat": -27.2162607,
+    "lon": -49.643654,
+    "metodo": "CityCenter",
+    "extra": "RIO DO SUL, SC, Brazil"
+  },
+  "BRASILAPI 37545000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cachoeira de Minas,MG"
+  },
+  "CITY_CENTER CACHOEIRA DE MINAS MG BRAZIL": {
+    "lat": -22.3554043,
+    "lon": -45.7796324,
+    "metodo": "CityCenter",
+    "extra": "CACHOEIRA DE MINAS, MG, Brazil"
+  },
+  "BRASILAPI 40157250": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40411380": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "CITY_CENTER PORANGATU GO BRAZIL": {
+    "lat": -13.444663,
+    "lon": -49.1423569,
+    "metodo": "CityCenter",
+    "extra": "PORANGATU, GO, Brazil"
+  },
+  "CITY_CENTER SUMARÉ SP BRAZIL": {
+    "lat": -22.8217964,
+    "lon": -47.267105,
+    "metodo": "CityCenter",
+    "extra": "SUMARÉ, SP, Brazil"
+  },
+  "BRASILAPI 66630280": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 13087030": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campinas,SP"
+  },
+  "BRASILAPI 69911114": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio Branco,AC"
+  },
+  "CITY_CENTER RIO BRANCO AC BRAZIL": {
+    "lat": -9.9765362,
+    "lon": -67.8220778,
+    "metodo": "CityCenter",
+    "extra": "RIO BRANCO, AC, Brazil"
+  },
+  "BRASILAPI 26050000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nova Iguaçu,RJ"
+  },
+  "BRASILAPI 65110000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José de Ribamar,MA"
+  },
+  "CITY_CENTER SÃO JOSÉ DE RIBAMAR MA BRAZIL": {
+    "lat": -2.5609115,
+    "lon": -44.0559509,
+    "metodo": "CityCenter",
+    "extra": "SÃO JOSÉ DE RIBAMAR, MA, Brazil"
+  },
+  "BRASILAPI 52070230": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 69915266": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio Branco,AC"
+  },
+  "BRASILAPI 67145470": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ananindeua,PA"
+  },
+  "BRASILAPI 22790877": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 23075006": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 22775113": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 25715131": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Petrópolis,RJ"
+  },
+  "CITY_CENTER PETRÓPOLIS RJ BRAZIL": {
+    "lat": -22.3880004,
+    "lon": -43.1752593,
+    "metodo": "CityCenter",
+    "extra": "PETRÓPOLIS, RJ, Brazil"
+  },
+  "BRASILAPI 78098350": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cuiabá,MT"
+  },
+  "CITY_CENTER BARCARENA PA BRAZIL": {
+    "lat": -1.5107945,
+    "lon": -48.6190679,
+    "metodo": "CityCenter",
+    "extra": "BARCARENA, PA, Brazil"
+  },
+  "CITY_CENTER VALPARAÍSO DE GOIÁS GO BRAZIL": {
+    "lat": -16.0686394,
+    "lon": -47.9764907,
+    "metodo": "CityCenter",
+    "extra": "VALPARAÍSO DE GOIÁS, GO, Brazil"
+  },
+  "CITY_CENTER ARAGUARI MG BRAZIL": {
+    "lat": -18.6511256,
+    "lon": -48.1933764,
+    "metodo": "CityCenter",
+    "extra": "ARAGUARI, MG, Brazil"
+  },
+  "BRASILAPI 66820020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 66645095": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "CITY_CENTER SÃO FELIPE BA BRAZIL": {
+    "lat": -12.8413439,
+    "lon": -39.0942048,
+    "metodo": "CityCenter",
+    "extra": "SÃO FELIPE, BA, Brazil"
+  },
+  "CITY_CENTER CATU BA BRAZIL": {
+    "lat": -12.351274,
+    "lon": -38.379108,
+    "metodo": "CityCenter",
+    "extra": "CATU, BA, Brazil"
+  },
+  "BRASILAPI 35534000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Carmópolis de Minas,MG"
+  },
+  "CITY_CENTER CARMÓPOLIS DE MINAS MG BRAZIL": {
+    "lat": -20.541224,
+    "lon": -44.6350611,
+    "metodo": "CityCenter",
+    "extra": "CARMÓPOLIS DE MINAS, MG, Brazil"
+  },
+  "BRASILAPI 59550000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Câmara,RN"
+  },
+  "CITY_CENTER JOÃO CÂMARA RN BRAZIL": {
+    "lat": -5.5349637,
+    "lon": -35.8150811,
+    "metodo": "CityCenter",
+    "extra": "JOÃO CÂMARA, RN, Brazil"
+  },
+  "BRASILAPI 54735240": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Lourenço da Mata,PE"
+  },
+  "CITY_CENTER SÃO LOURENÇO DA MATA PE BRAZIL": {
+    "lat": -7.9959607,
+    "lon": -35.039335,
+    "metodo": "CityCenter",
+    "extra": "SÃO LOURENÇO DA MATA, PE, Brazil"
+  },
+  "BRASILAPI 21235528": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 30170020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 57210000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Piaçabuçu,AL"
+  },
+  "CITY_CENTER PIAÇABUÇU AL BRAZIL": {
+    "lat": -10.4066897,
+    "lon": -36.433654,
+    "metodo": "CityCenter",
+    "extra": "PIAÇABUÇU, AL, Brazil"
+  },
+  "BRASILAPI 59164000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nísia Floresta,RN"
+  },
+  "CITY_CENTER NÍSIA FLORESTA RN BRAZIL": {
+    "lat": -6.0902674,
+    "lon": -35.2085026,
+    "metodo": "CityCenter",
+    "extra": "NÍSIA FLORESTA, RN, Brazil"
+  },
+  "BRASILAPI 48005170": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Alagoinhas,BA"
+  },
+  "CITY_CENTER ALAGOINHAS BA BRAZIL": {
+    "lat": -12.133526,
+    "lon": -38.420772,
+    "metodo": "CityCenter",
+    "extra": "ALAGOINHAS, BA, Brazil"
+  },
+  "BRASILAPI 79200000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aquidauana,MS"
+  },
+  "CITY_CENTER AQUIDAUANA MS BRAZIL": {
+    "lat": -20.473969,
+    "lon": -55.7821375,
+    "metodo": "CityCenter",
+    "extra": "AQUIDAUANA, MS, Brazil"
+  },
+  "CITY_CENTER PAULO RAMOS MA BRAZIL": {
+    "lat": -4.4491095,
+    "lon": -45.2420345,
+    "metodo": "CityCenter",
+    "extra": "PAULO RAMOS, MA, Brazil"
+  },
+  "CITY_CENTER ITAPECERICA MG BRAZIL": {
+    "lat": -20.472778,
+    "lon": -45.125556,
+    "metodo": "CityCenter",
+    "extra": "ITAPECERICA, MG, Brazil"
+  },
+  "CITY_CENTER CRUZ DAS ALMAS BA BRAZIL": {
+    "lat": -12.6722649,
+    "lon": -39.1053665,
+    "metodo": "CityCenter",
+    "extra": "CRUZ DAS ALMAS, BA, Brazil"
+  },
+  "CITY_CENTER ESPLANADA BA BRAZIL": {
+    "lat": -11.800614,
+    "lon": -37.9453,
+    "metodo": "CityCenter",
+    "extra": "ESPLANADA, BA, Brazil"
+  },
+  "BRASILAPI 43900000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Francisco do Conde,BA"
+  },
+  "CITY_CENTER SÃO FRANCISCO DO CONDE BA BRAZIL": {
+    "lat": -12.628108,
+    "lon": -38.6811326,
+    "metodo": "CityCenter",
+    "extra": "SÃO FRANCISCO DO CONDE, BA, Brazil"
+  },
+  "BRASILAPI 39735000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Divinolândia de Minas,MG"
+  },
+  "CITY_CENTER DIVINOLÂNDIA DE MINAS MG BRAZIL": {
+    "lat": -18.8021453,
+    "lon": -42.6153788,
+    "metodo": "CityCenter",
+    "extra": "DIVINOLÂNDIA DE MINAS, MG, Brazil"
+  },
+  "BRASILAPI 72445070": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 68508445": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Marabá,PA"
+  },
+  "CITY_CENTER MARABÁ PA BRAZIL": {
+    "lat": -5.3462821,
+    "lon": -49.1007401,
+    "metodo": "CityCenter",
+    "extra": "MARABÁ, PA, Brazil"
+  },
+  "BRASILAPI 60874401": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 88160164": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Biguaçu,SC"
+  },
+  "CITY_CENTER BIGUAÇU SC BRAZIL": {
+    "lat": -27.4961277,
+    "lon": -48.6542432,
+    "metodo": "CityCenter",
+    "extra": "BIGUAÇU, SC, Brazil"
+  },
+  "BRASILAPI 24900105": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maricá,RJ"
+  },
+  "CITY_CENTER MARICÁ RJ BRAZIL": {
+    "lat": -22.9088759,
+    "lon": -42.8171914,
+    "metodo": "CityCenter",
+    "extra": "MARICÁ, RJ, Brazil"
+  },
+  "BRASILAPI 41830492": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40050100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40411370": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41760000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41275490": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40411002": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41810010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41650020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41820340": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 39390000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bocaiúva,MG"
+  },
+  "CITY_CENTER BOCAIUVA MG BRAZIL": {
+    "lat": -17.1160208,
+    "lon": -43.8122678,
+    "metodo": "CityCenter",
+    "extra": "BOCAIUVA, MG, Brazil"
+  },
+  "BRASILAPI 41233010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 58038080": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "CITY_CENTER NAZARÉ BA BRAZIL": {
+    "lat": -13.0345586,
+    "lon": -39.0062515,
+    "metodo": "CityCenter",
+    "extra": "NAZARÉ, BA, Brazil"
+  },
+  "BRASILAPI 41750110": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40296320": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40730240": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 60410426": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 40270370": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 30330230": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 41940330": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41750010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41830020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "CITY_CENTER EUCLIDES DA CUNHA BA BRAZIL": {
+    "lat": -10.5068008,
+    "lon": -39.0165817,
+    "metodo": "CityCenter",
+    "extra": "EUCLIDES DA CUNHA, BA, Brazil"
+  },
+  "BRASILAPI 41298200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 59162000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José de Mipibu,RN"
+  },
+  "CITY_CENTER SÃO JOSÉ DE MIPIBU RN BRAZIL": {
+    "lat": -6.0746867,
+    "lon": -35.2370184,
+    "metodo": "CityCenter",
+    "extra": "SÃO JOSÉ DE MIPIBU, RN, Brazil"
+  },
+  "BRASILAPI 41760170": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40430000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 60440131": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 41830450": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 58806410": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sousa,PB"
+  },
+  "BRASILAPI 41830181": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40230680": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41815370": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41740380": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40285885": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 40296700": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 79002353": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 94185160": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Gravataí,RS"
+  },
+  "CITY_CENTER GRAVATAÍ RS BRAZIL": {
+    "lat": -29.9440222,
+    "lon": -50.9930938,
+    "metodo": "CityCenter",
+    "extra": "GRAVATAÍ, RS, Brazil"
+  },
+  "BRASILAPI 27580000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itatiaia,RJ"
+  },
+  "CITY_CENTER ITATIAIA RJ BRAZIL": {
+    "lat": -22.4955278,
+    "lon": -44.5633108,
+    "metodo": "CityCenter",
+    "extra": "ITATIAIA, RJ, Brazil"
+  },
+  "BRASILAPI 13212390": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jundiaí,SP"
+  },
+  "BRASILAPI 89202250": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Joinville,SC"
+  },
+  "CITY_CENTER JOINVILLE SC BRAZIL": {
+    "lat": -26.3044898,
+    "lon": -48.8486726,
+    "metodo": "CityCenter",
+    "extra": "JOINVILLE, SC, Brazil"
+  },
+  "BRASILAPI 79092070": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 86800110": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Apucarana,PR"
+  },
+  "CITY_CENTER APUCARANA PR BRAZIL": {
+    "lat": -23.5525327,
+    "lon": -51.4610764,
+    "metodo": "CityCenter",
+    "extra": "APUCARANA, PR, Brazil"
+  },
+  "BRASILAPI 44091238": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "BRASILAPI 19023350": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Presidente Prudente,SP"
+  },
+  "BRASILAPI 40301110": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 55293310": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Garanhuns,PE"
+  },
+  "CITY_CENTER GARANHUNS PE BRAZIL": {
+    "lat": -8.8905889,
+    "lon": -36.4930896,
+    "metodo": "CityCenter",
+    "extra": "GARANHUNS, PE, Brazil"
+  },
+  "BRASILAPI 58059122": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "BRASILAPI 59037700": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Natal,RN"
+  },
+  "CITY_CENTER SANTOS SP BRAZIL": {
+    "lat": -23.9335988,
+    "lon": -46.3286399,
+    "metodo": "CityCenter",
+    "extra": "SANTOS, SP, Brazil"
+  },
+  "BRASILAPI 58036450": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "BRASILAPI 42827970": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Camaçari,BA"
+  },
+  "BRASILAPI 35450000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "CITY_CENTER ITABIRITO MG BRAZIL": {
+    "lat": -20.2519724,
+    "lon": -43.8029171,
+    "metodo": "CityCenter",
+    "extra": "ITABIRITO, MG, Brazil"
+  },
+  "BRASILAPI 65901020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Imperatriz,MA"
+  },
+  "BRASILAPI 55012075": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caruaru,PE"
+  },
+  "BRASILAPI 36010003": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Juiz de Fora,MG"
+  },
+  "CITY_CENTER JUIZ DE FORA MG BRAZIL": {
+    "lat": -21.7609533,
+    "lon": -43.3501129,
+    "metodo": "CityCenter",
+    "extra": "JUIZ DE FORA, MG, Brazil"
+  },
+  "CITY_CENTER HORIZONTE CE BRAZIL": {
+    "lat": -4.0964618,
+    "lon": -38.4965574,
+    "metodo": "CityCenter",
+    "extra": "HORIZONTE, CE, Brazil"
+  },
+  "BRASILAPI 17056170": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bauru,SP"
+  },
+  "BRASILAPI 41290200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 35702153": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sete Lagoas,MG"
+  },
+  "CITY_CENTER SETE LAGOAS MG BRAZIL": {
+    "lat": -19.466111,
+    "lon": -44.246944,
+    "metodo": "CityCenter",
+    "extra": "SETE LAGOAS, MG, Brazil"
+  },
+  "BRASILAPI 35460000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brumadinho,MG"
+  },
+  "CITY_CENTER BRUMADINHO MG BRAZIL": {
+    "lat": -20.143611,
+    "lon": -44.2,
+    "metodo": "CityCenter",
+    "extra": "BRUMADINHO, MG, Brazil"
+  },
+  "BRASILAPI 13201005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jundiaí,SP"
+  },
+  "BRASILAPI 57300340": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Arapiraca,AL"
+  },
+  "BRASILAPI 74393480": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goiânia,GO"
+  },
+  "BRASILAPI 79022210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 44001400": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "CITY_CENTER NOVO HAMBURGO RS BRAZIL": {
+    "lat": -29.6905705,
+    "lon": -51.1429035,
+    "metodo": "CityCenter",
+    "extra": "NOVO HAMBURGO, RS, Brazil"
+  },
+  "CITY_CENTER RESSAQUINHA MG BRAZIL": {
+    "lat": -21.063056,
+    "lon": -43.762778,
+    "metodo": "CityCenter",
+    "extra": "RESSAQUINHA, MG, Brazil"
+  },
+  "BRASILAPI 41510000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 94450000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Viamão,RS"
+  },
+  "CITY_CENTER VIAMÃO RS BRAZIL": {
+    "lat": -30.0819338,
+    "lon": -51.0261927,
+    "metodo": "CityCenter",
+    "extra": "VIAMÃO, RS, Brazil"
+  },
+  "CITY_CENTER CANDEIAS BA BRAZIL": {
+    "lat": -12.6693806,
+    "lon": -38.5406462,
+    "metodo": "CityCenter",
+    "extra": "CANDEIAS, BA, Brazil"
+  },
+  "CITY_CENTER ESCADA PE BRAZIL": {
+    "lat": -8.3623847,
+    "lon": -35.2366232,
+    "metodo": "CityCenter",
+    "extra": "ESCADA, PE, Brazil"
+  },
+  "BRASILAPI 60842395": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "CITY_CENTER PARAÍSO DO TOCANTINS TO BRAZIL": {
+    "lat": -10.1752474,
+    "lon": -48.886759,
+    "metodo": "CityCenter",
+    "extra": "PARAÍSO DO TOCANTINS, TO, Brazil"
+  },
+  "CITY_CENTER MORENO PE BRAZIL": {
+    "lat": -8.108706,
+    "lon": -35.08354,
+    "metodo": "CityCenter",
+    "extra": "MORENO, PE, Brazil"
+  },
+  "CITY_CENTER ARARIPINA PE BRAZIL": {
+    "lat": -7.5768582,
+    "lon": -40.5038509,
+    "metodo": "CityCenter",
+    "extra": "ARARIPINA, PE, Brazil"
+  },
+  "CITY_CENTER FLORIANÓPOLIS SC BRAZIL": {
+    "lat": -27.5973002,
+    "lon": -48.5496098,
+    "metodo": "CityCenter",
+    "extra": "FLORIANÓPOLIS, SC, Brazil"
+  },
+  "BRASILAPI 42810000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Camaçari,BA"
+  },
+  "BRASILAPI 59064000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Natal,RN"
+  },
+  "CITY_CENTER SÃO BENTO MA BRAZIL": {
+    "lat": -2.6999089,
+    "lon": -44.8331254,
+    "metodo": "CityCenter",
+    "extra": "SÃO BENTO, MA, Brazil"
+  },
+  "BRASILAPI 27971130": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "BRASILAPI 66820000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 66811000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "CITY_CENTER ITAPARICA BA BRAZIL": {
+    "lat": -12.8936023,
+    "lon": -38.6798141,
+    "metodo": "CityCenter",
+    "extra": "ITAPARICA, BA, Brazil"
+  },
+  "BRASILAPI 41820020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41505220": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 65760000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Presidente Dutra,MA"
+  },
+  "CITY_CENTER PRESIDENTE DUTRA MA BRAZIL": {
+    "lat": -5.289801,
+    "lon": -44.49498,
+    "metodo": "CityCenter",
+    "extra": "PRESIDENTE DUTRA, MA, Brazil"
+  },
+  "BRASILAPI 64804140": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Floriano,PI"
+  },
+  "CITY_CENTER FLORIANO PI BRAZIL": {
+    "lat": -6.7675739,
+    "lon": -43.022261,
+    "metodo": "CityCenter",
+    "extra": "FLORIANO, PI, Brazil"
+  },
+  "CITY_CENTER ESTREITO MA BRAZIL": {
+    "lat": -6.5583016,
+    "lon": -47.4432212,
+    "metodo": "CityCenter",
+    "extra": "ESTREITO, MA, Brazil"
+  },
+  "CITY_CENTER RIO LARGO AL BRAZIL": {
+    "lat": -9.477829,
+    "lon": -35.839435,
+    "metodo": "CityCenter",
+    "extra": "RIO LARGO, AL, Brazil"
+  },
+  "BRASILAPI 88110820": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José,SC"
+  },
+  "CITY_CENTER SÃO JOSÉ SC BRAZIL": {
+    "lat": -27.6157733,
+    "lon": -48.6276491,
+    "metodo": "CityCenter",
+    "extra": "SÃO JOSÉ, SC, Brazil"
+  },
+  "CITY_CENTER GOIANA PE BRAZIL": {
+    "lat": -7.560603,
+    "lon": -34.99591,
+    "metodo": "CityCenter",
+    "extra": "GOIANA, PE, Brazil"
+  },
+  "BRASILAPI 55470000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Panelas,PE"
+  },
+  "CITY_CENTER PANELAS PE BRAZIL": {
+    "lat": -8.661211,
+    "lon": -36.012539,
+    "metodo": "CityCenter",
+    "extra": "PANELAS, PE, Brazil"
+  },
+  "BRASILAPI 81690400": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Curitiba,PR"
+  },
+  "CITY_CENTER COLINAS MA BRAZIL": {
+    "lat": -6.0332631,
+    "lon": -44.2528542,
+    "metodo": "CityCenter",
+    "extra": "COLINAS, MA, Brazil"
+  },
+  "BRASILAPI 13010081": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campinas,SP"
+  },
+  "CITY_CENTER CAUCAIA CE BRAZIL": {
+    "lat": -3.7300563,
+    "lon": -38.6593082,
+    "metodo": "CityCenter",
+    "extra": "CAUCAIA, CE, Brazil"
+  },
+  "CITY_CENTER CHAPADINHA MA BRAZIL": {
+    "lat": -3.7416803,
+    "lon": -43.3548006,
+    "metodo": "CityCenter",
+    "extra": "CHAPADINHA, MA, Brazil"
+  },
+  "CITY_CENTER ALTOS PI BRAZIL": {
+    "lat": -5.0393915,
+    "lon": -42.4611694,
+    "metodo": "CityCenter",
+    "extra": "ALTOS, PI, Brazil"
+  },
+  "BRASILAPI 58108502": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cabedelo,PB"
+  },
+  "BRASILAPI 54220520": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jaboatão dos Guararapes,PE"
+  },
+  "BRASILAPI 49158622": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nossa Senhora do Socorro,SE"
+  },
+  "BRASILAPI 29135008": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Viana,ES"
+  },
+  "CITY_CENTER VIANA ES BRAZIL": {
+    "lat": -20.3914471,
+    "lon": -40.4966587,
+    "metodo": "CityCenter",
+    "extra": "VIANA, ES, Brazil"
+  },
+  "BRASILAPI 67030007": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ananindeua,PA"
+  },
+  "BRASILAPI 67200000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "CITY_CENTER MARITUBA PA BRAZIL": {
+    "lat": -1.3595306,
+    "lon": -48.3361504,
+    "metodo": "CityCenter",
+    "extra": "MARITUBA, PA, Brazil"
+  },
+  "CITY_CENTER BACABAL MA BRAZIL": {
+    "lat": -4.2318132,
+    "lon": -44.781167,
+    "metodo": "CityCenter",
+    "extra": "BACABAL, MA, Brazil"
+  },
+  "BRASILAPI 65365000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Zé Doca,MA"
+  },
+  "CITY_CENTER ZÉ DOCA MA BRAZIL": {
+    "lat": -3.270145,
+    "lon": -45.655344,
+    "metodo": "CityCenter",
+    "extra": "ZÉ DOCA, MA, Brazil"
+  },
+  "BRASILAPI 41233030": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 32241410": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "BRASILAPI 45807000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santa Cruz Cabrália,BA"
+  },
+  "CITY_CENTER SANTA CRUZ CABRÁLIA BA BRAZIL": {
+    "lat": -16.2783928,
+    "lon": -39.0224899,
+    "metodo": "CityCenter",
+    "extra": "SANTA CRUZ CABRÁLIA, BA, Brazil"
+  },
+  "BRASILAPI 65150000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rosário,MA"
+  },
+  "CITY_CENTER ROSÁRIO MA BRAZIL": {
+    "lat": -2.9405903,
+    "lon": -44.2491088,
+    "metodo": "CityCenter",
+    "extra": "ROSÁRIO, MA, Brazil"
+  },
+  "BRASILAPI 48030000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Alagoinhas,BA"
+  },
+  "BRASILAPI 62670000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Gonçalo do Amarante,CE"
+  },
+  "BRASILAPI 68440000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Abaetetuba,PA"
+  },
+  "CITY_CENTER ABAETETUBA PA BRAZIL": {
+    "lat": -1.7217787,
+    "lon": -48.8788106,
+    "metodo": "CityCenter",
+    "extra": "ABAETETUBA, PA, Brazil"
+  },
+  "CITY_CENTER ITAPEVI SP BRAZIL": {
+    "lat": -23.54888,
+    "lon": -46.933889,
+    "metodo": "CityCenter",
+    "extra": "ITAPEVI, SP, Brazil"
+  },
+  "BRASILAPI 29164140": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Serra,ES"
+  },
+  "CITY_CENTER VIANA MA BRAZIL": {
+    "lat": -3.2099341,
+    "lon": -45.0002456,
+    "metodo": "CityCenter",
+    "extra": "VIANA, MA, Brazil"
+  },
+  "CITY_CENTER COROATÁ MA BRAZIL": {
+    "lat": -4.1282283,
+    "lon": -44.1360269,
+    "metodo": "CityCenter",
+    "extra": "COROATÁ, MA, Brazil"
+  },
+  "CITY_CENTER SANTA HELENA MA BRAZIL": {
+    "lat": -2.234387,
+    "lon": -45.3002279,
+    "metodo": "CityCenter",
+    "extra": "SANTA HELENA, MA, Brazil"
+  },
+  "BRASILAPI 66650000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "CITY_CENTER BARRA DO BUGRES MT BRAZIL": {
+    "lat": -15.0683712,
+    "lon": -57.1853688,
+    "metodo": "CityCenter",
+    "extra": "BARRA DO BUGRES, MT, Brazil"
+  },
+  "BRASILAPI 68680000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Tomé-Açu,PA"
+  },
+  "CITY_CENTER TOMÉ AÇU PA BRAZIL": {
+    "lat": -2.4166306,
+    "lon": -48.1522907,
+    "metodo": "CityCenter",
+    "extra": "TOMÉ-AÇU, PA, Brazil"
+  },
+  "CITY_CENTER TAILÂNDIA PA BRAZIL": {
+    "lat": -2.936096,
+    "lon": -48.9523366,
+    "metodo": "CityCenter",
+    "extra": "TAILÂNDIA, PA, Brazil"
+  },
+  "BRASILAPI 68515000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Parauapebas,PA"
+  },
+  "CITY_CENTER PARAUAPEBAS PA BRAZIL": {
+    "lat": -6.0696846,
+    "lon": -49.8903283,
+    "metodo": "CityCenter",
+    "extra": "PARAUAPEBAS, PA, Brazil"
+  },
+  "BRASILAPI 89052381": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Blumenau,SC"
+  },
+  "CITY_CENTER BLUMENAU SC BRAZIL": {
+    "lat": -26.9195567,
+    "lon": -49.0658025,
+    "metodo": "CityCenter",
+    "extra": "BLUMENAU, SC, Brazil"
+  },
+  "CITY_CENTER VITÓRIA DE SANTO ANTÃO PE BRAZIL": {
+    "lat": -8.1209019,
+    "lon": -35.2944858,
+    "metodo": "CityCenter",
+    "extra": "VITÓRIA DE SANTO ANTÃO, PE, Brazil"
+  },
+  "BRASILAPI 54518901": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cabo de Santo Agostinho,PE"
+  },
+  "CITY_CENTER CABO DE SANTO AGOSTINHO PE BRAZIL": {
+    "lat": -8.2838945,
+    "lon": -35.0320984,
+    "metodo": "CityCenter",
+    "extra": "CABO DE SANTO AGOSTINHO, PE, Brazil"
+  },
+  "CITY_CENTER FRANCO DA ROCHA SP BRAZIL": {
+    "lat": -23.3328038,
+    "lon": -46.724446,
+    "metodo": "CityCenter",
+    "extra": "FRANCO DA ROCHA, SP, Brazil"
+  },
+  "BRASILAPI 25515230": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São João de Meriti,RJ"
+  },
+  "CITY_CENTER SÃO JOÃO DE MERITI RJ BRAZIL": {
+    "lat": -22.7853575,
+    "lon": -43.366715,
+    "metodo": "CityCenter",
+    "extra": "SÃO JOÃO DE MERITI, RJ, Brazil"
+  },
+  "CITY_CENTER TABOÃO DA SERRA SP BRAZIL": {
+    "lat": -23.6121912,
+    "lon": -46.7790539,
+    "metodo": "CityCenter",
+    "extra": "TABOÃO DA SERRA, SP, Brazil"
+  },
+  "BRASILAPI 28940090": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Pedro da Aldeia,RJ"
+  },
+  "CITY_CENTER SÃO PEDRO DA ALDEIA RJ BRAZIL": {
+    "lat": -22.8384835,
+    "lon": -42.1031604,
+    "metodo": "CityCenter",
+    "extra": "SÃO PEDRO DA ALDEIA, RJ, Brazil"
+  },
+  "CITY_CENTER MARATAÍZES ES BRAZIL": {
+    "lat": -21.0443673,
+    "lon": -40.8272204,
+    "metodo": "CityCenter",
+    "extra": "MARATAÍZES, ES, Brazil"
+  },
+  "CITY_CENTER COTIA SP BRAZIL": {
+    "lat": -23.603889,
+    "lon": -46.918889,
+    "metodo": "CityCenter",
+    "extra": "COTIA, SP, Brazil"
+  },
+  "BRASILAPI 25230005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Duque de Caxias,RJ"
+  },
+  "BRASILAPI 57230000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Coruripe,AL"
+  },
+  "CITY_CENTER CORURIPE AL BRAZIL": {
+    "lat": -10.1249963,
+    "lon": -36.1760623,
+    "metodo": "CityCenter",
+    "extra": "CORURIPE, AL, Brazil"
+  },
+  "BRASILAPI 65054650": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 77826584": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Araguaína,TO"
+  },
+  "BRASILAPI 69900205": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio Branco,AC"
+  },
+  "BRASILAPI 71940540": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 74805180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goiânia,GO"
+  },
+  "BRASILAPI 74810340": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goiânia,GO"
+  },
+  "BRASILAPI 29168085": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Serra,ES"
+  },
+  "BRASILAPI 68460034": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Tucuruí,PA"
+  },
+  "CITY_CENTER TUCURUÍ PA BRAZIL": {
+    "lat": -3.766334,
+    "lon": -49.6663654,
+    "metodo": "CityCenter",
+    "extra": "TUCURUÍ, PA, Brazil"
+  },
+  "BRASILAPI 14055660": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ribeirão Preto,SP"
+  },
+  "BRASILAPI 26255330": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nova Iguaçu,RJ"
+  },
+  "BRASILAPI 29156970": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cariacica,ES"
+  },
+  "BRASILAPI 29092105": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória,ES"
+  },
+  "BRASILAPI 65917010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Imperatriz,MA"
+  },
+  "BRASILAPI 80530300": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Curitiba,PR"
+  },
+  "BRASILAPI 83045060": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São José dos Pinhais,PR"
+  },
+  "BRASILAPI 79118370": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 60510072": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "CITY_CENTER CONCEIÇÃO DO COITÉ BA BRAZIL": {
+    "lat": -11.5629384,
+    "lon": -39.2839543,
+    "metodo": "CityCenter",
+    "extra": "CONCEIÇÃO DO COITÉ, BA, Brazil"
+  },
+  "BRASILAPI 41830380": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 32010030": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "BRASILAPI 60865030": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 40230106": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 16800000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Mirandópolis,SP"
+  },
+  "CITY_CENTER MIRANDÓPOLIS SP BRAZIL": {
+    "lat": -21.1328313,
+    "lon": -51.1029422,
+    "metodo": "CityCenter",
+    "extra": "MIRANDÓPOLIS, SP, Brazil"
+  },
+  "BRASILAPI 51020240": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 13092588": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campinas,SP"
+  },
+  "BRASILAPI 35488000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itaguara,MG"
+  },
+  "CITY_CENTER ITAGUARA MG BRAZIL": {
+    "lat": -20.391389,
+    "lon": -44.488055,
+    "metodo": "CityCenter",
+    "extra": "ITAGUARA, MG, Brazil"
+  },
+  "BRASILAPI 18160000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salto de Pirapora,SP"
+  },
+  "BRASILAPI 36085050": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Juiz de Fora,MG"
+  },
+  "BRASILAPI 11250003": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bertioga,SP"
+  },
+  "CITY_CENTER BERTIOGA SP BRAZIL": {
+    "lat": -23.848568,
+    "lon": -46.139586,
+    "metodo": "CityCenter",
+    "extra": "BERTIOGA, SP, Brazil"
+  },
+  "BRASILAPI 41815210": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 68458100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Tucuruí,PA"
+  },
+  "BRASILAPI 25802315": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Três Rios,RJ"
+  },
+  "CITY_CENTER TRÊS RIOS RJ BRAZIL": {
+    "lat": -22.1201732,
+    "lon": -43.1072134,
+    "metodo": "CityCenter",
+    "extra": "TRÊS RIOS, RJ, Brazil"
+  },
+  "BRASILAPI 40150270": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 78005300": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cuiabá,MT"
+  },
+  "BRASILAPI 51030300": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 60025062": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 41615000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 30285010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 35660630": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Pará de Minas,MG"
+  },
+  "BRASILAPI 50070415": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "CITY_CENTER MOJU PA BRAZIL": {
+    "lat": -1.889926,
+    "lon": -48.766765,
+    "metodo": "CityCenter",
+    "extra": "MOJU, PA, Brazil"
+  },
+  "BRASILAPI 79006560": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 74960180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aparecida de Goiânia,GO"
+  },
+  "BRASILAPI 41740010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 50751070": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 11040191": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santos,SP"
+  },
+  "BRASILAPI 61939070": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maracanaú,CE"
+  },
+  "BRASILAPI 13206900": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jundiaí,SP"
+  },
+  "BRASILAPI 57041000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 57500000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santana do Ipanema,AL"
+  },
+  "CITY_CENTER SANTANA DO IPANEMA AL BRAZIL": {
+    "lat": -9.369989,
+    "lon": -37.248018,
+    "metodo": "CityCenter",
+    "extra": "SANTANA DO IPANEMA, AL, Brazil"
+  },
+  "BRASILAPI 40330200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 18550000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI_None",
+    "extra": ""
+  },
+  "CITY_CENTER BOITUVA SP BRAZIL": {
+    "lat": -23.2838893,
+    "lon": -47.6738231,
+    "metodo": "CityCenter",
+    "extra": "BOITUVA, SP, Brazil"
+  },
+  "BRASILAPI 88830000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Morro da Fumaça,SC"
+  },
+  "CITY_CENTER MORRO DA FUMAÇA SC BRAZIL": {
+    "lat": -28.6522275,
+    "lon": -49.2133979,
+    "metodo": "CityCenter",
+    "extra": "MORRO DA FUMAÇA, SC, Brazil"
+  },
+  "CITY_CENTER LAGO DA PEDRA MA BRAZIL": {
+    "lat": -4.5627272,
+    "lon": -45.1298628,
+    "metodo": "CityCenter",
+    "extra": "LAGO DA PEDRA, MA, Brazil"
+  },
+  "BRASILAPI 30411213": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 78058610": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Cuiabá,MT"
+  },
+  "BRASILAPI 76812241": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Porto Velho,RO"
+  },
+  "BRASILAPI 41650195": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 43850000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Sebastião do Passé,BA"
+  },
+  "CITY_CENTER SÃO SEBASTIÃO DO PASSÉ BA BRAZIL": {
+    "lat": -12.5177926,
+    "lon": -38.4921566,
+    "metodo": "CityCenter",
+    "extra": "SÃO SEBASTIÃO DO PASSÉ, BA, Brazil"
+  },
+  "BRASILAPI 76812090": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Porto Velho,RO"
+  },
+  "BRASILAPI 79013220": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "CITY_CENTER RIO DAS OSTRAS RJ BRAZIL": {
+    "lat": -22.5269448,
+    "lon": -41.944972,
+    "metodo": "CityCenter",
+    "extra": "RIO DAS OSTRAS, RJ, Brazil"
+  },
+  "BRASILAPI 65393000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Buriticupu,MA"
+  },
+  "CITY_CENTER BURITICUPU MA BRAZIL": {
+    "lat": -4.3227472,
+    "lon": -46.4516989,
+    "metodo": "CityCenter",
+    "extra": "BURITICUPU, MA, Brazil"
+  },
+  "BRASILAPI 22775055": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 78850000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Primavera do Leste,MT"
+  },
+  "CITY_CENTER PRIMAVERA DO LESTE MT BRAZIL": {
+    "lat": -15.5614127,
+    "lon": -54.2993946,
+    "metodo": "CityCenter",
+    "extra": "PRIMAVERA DO LESTE, MT, Brazil"
+  },
+  "BRASILAPI 40295090": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 41230070": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 30220000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 58700010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Patos,PB"
+  },
+  "CITY_CENTER PATOS PB BRAZIL": {
+    "lat": -7.0258285,
+    "lon": -37.2766817,
+    "metodo": "CityCenter",
+    "extra": "PATOS, PB, Brazil"
+  },
+  "BRASILAPI 29931410": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Mateus,ES"
+  },
+  "CITY_CENTER SÃO MATEUS ES BRAZIL": {
+    "lat": -18.7146049,
+    "lon": -39.8539499,
+    "metodo": "CityCenter",
+    "extra": "SÃO MATEUS, ES, Brazil"
+  },
+  "BRASILAPI 21310120": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 62685000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paraipaba,CE"
+  },
+  "CITY_CENTER PARAIPABA CE BRAZIL": {
+    "lat": -3.437987,
+    "lon": -39.147868,
+    "metodo": "CityCenter",
+    "extra": "PARAIPABA, CE, Brazil"
+  },
+  "BRASILAPI 30140063": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 35680000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itaúna,MG"
+  },
+  "BRASILAPI 15372130": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Pereira Barreto,SP"
+  },
+  "CITY_CENTER PEREIRA BARRETO SP BRAZIL": {
+    "lat": -20.6378509,
+    "lon": -51.1052172,
+    "metodo": "CityCenter",
+    "extra": "PEREIRA BARRETO, SP, Brazil"
+  },
+  "BRASILAPI 55296000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Garanhuns,PE"
+  },
+  "BRASILAPI 31060250": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "CITY_CENTER SERRINHA BA BRAZIL": {
+    "lat": -11.66199,
+    "lon": -39.0034021,
+    "metodo": "CityCenter",
+    "extra": "SERRINHA, BA, Brazil"
+  },
+  "CITY_CENTER SANTO ANTÔNIO RN BRAZIL": {
+    "lat": -6.3124831,
+    "lon": -35.4815907,
+    "metodo": "CityCenter",
+    "extra": "SANTO ANTÔNIO, RN, Brazil"
+  },
+  "CITY_CENTER BRUSQUE SC BRAZIL": {
+    "lat": -27.0964628,
+    "lon": -48.9136323,
+    "metodo": "CityCenter",
+    "extra": "BRUSQUE, SC, Brazil"
+  },
+  "BRASILAPI 88301000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itajaí,SC"
+  },
+  "CITY_CENTER INHAMBUPE BA BRAZIL": {
+    "lat": -11.7921718,
+    "lon": -38.3596957,
+    "metodo": "CityCenter",
+    "extra": "INHAMBUPE, BA, Brazil"
+  },
+  "BRASILAPI 65036240": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 88095500": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Florianópolis,SC"
+  },
+  "BRASILAPI 41680113": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 18606730": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Botucatu,SP"
+  },
+  "CITY_CENTER BOTUCATU SP BRAZIL": {
+    "lat": -22.8879628,
+    "lon": -48.4410712,
+    "metodo": "CityCenter",
+    "extra": "BOTUCATU, SP, Brazil"
+  },
+  "BRASILAPI 14090218": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Ribeirão Preto,SP"
+  },
+  "BRASILAPI 44245000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Conceição do Jacuípe,BA"
+  },
+  "CITY_CENTER CONCEIÇÃO DO JACUÍPE BA BRAZIL": {
+    "lat": -12.326831,
+    "lon": -38.768433,
+    "metodo": "CityCenter",
+    "extra": "CONCEIÇÃO DO JACUÍPE, BA, Brazil"
+  },
+  "BRASILAPI 68625240": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paragominas,PA"
+  },
+  "BRASILAPI 69316002": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Boa Vista,RR"
+  },
+  "BRASILAPI 57036560": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maceió,AL"
+  },
+  "BRASILAPI 79075820": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 14870370": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jaboticabal,SP"
+  },
+  "CITY_CENTER JABOTICABAL SP BRAZIL": {
+    "lat": -21.252037,
+    "lon": -48.325223,
+    "metodo": "CityCenter",
+    "extra": "JABOTICABAL, SP, Brazil"
+  },
+  "BRASILAPI 58057100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "BRASILAPI 81460130": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Curitiba,PR"
+  },
+  "BRASILAPI 58275000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itapororoca,PB"
+  },
+  "CITY_CENTER ITAPOROROCA PB BRAZIL": {
+    "lat": -6.8283007,
+    "lon": -35.244782,
+    "metodo": "CityCenter",
+    "extra": "ITAPOROROCA, PB, Brazil"
+  },
+  "BRASILAPI 74080010": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Goiânia,GO"
+  },
+  "BRASILAPI 41320100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 55006360": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caruaru,PE"
+  },
+  "BRASILAPI 22280003": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 22280005": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 44001120": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Feira de Santana,BA"
+  },
+  "CITY_CENTER LAGES SC BRAZIL": {
+    "lat": -27.8165664,
+    "lon": -50.325883,
+    "metodo": "CityCenter",
+    "extra": "LAGES, SC, Brazil"
+  },
+  "CITY_CENTER ÁGUA BRANCA AL BRAZIL": {
+    "lat": -9.2613606,
+    "lon": -37.9361053,
+    "metodo": "CityCenter",
+    "extra": "ÁGUA BRANCA, AL, Brazil"
+  },
+  "BRASILAPI 29200180": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Guarapari,ES"
+  },
+  "CITY_CENTER GUARAPARI ES BRAZIL": {
+    "lat": -20.6718755,
+    "lon": -40.4984617,
+    "metodo": "CityCenter",
+    "extra": "GUARAPARI, ES, Brazil"
+  },
+  "BRASILAPI 42800099": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Camaçari,BA"
+  },
+  "CITY_CENTER CAPANEMA PA BRAZIL": {
+    "lat": -1.1933054,
+    "lon": -47.1828679,
+    "metodo": "CityCenter",
+    "extra": "CAPANEMA, PA, Brazil"
+  },
+  "BRASILAPI 56000000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salgueiro,PE"
+  },
+  "CITY_CENTER SALGUEIRO PE BRAZIL": {
+    "lat": -8.0726731,
+    "lon": -39.1269719,
+    "metodo": "CityCenter",
+    "extra": "SALGUEIRO, PE, Brazil"
+  },
+  "BRASILAPI 79014030": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "CITY_CENTER JUQUITIBA SP BRAZIL": {
+    "lat": -23.932346,
+    "lon": -47.0714217,
+    "metodo": "CityCenter",
+    "extra": "JUQUITIBA, SP, Brazil"
+  },
+  "BRASILAPI 62700000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Canindé,CE"
+  },
+  "CITY_CENTER CANINDÉ CE BRAZIL": {
+    "lat": -4.3547946,
+    "lon": -39.3108516,
+    "metodo": "CityCenter",
+    "extra": "CANINDÉ, CE, Brazil"
+  },
+  "BRASILAPI 96065340": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Pelotas,RS"
+  },
+  "BRASILAPI 89280490": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Bento do Sul,SC"
+  },
+  "CITY_CENTER SÃO BENTO DO SUL SC BRAZIL": {
+    "lat": -26.2483669,
+    "lon": -49.3820672,
+    "metodo": "CityCenter",
+    "extra": "SÃO BENTO DO SUL, SC, Brazil"
+  },
+  "BRASILAPI 60110535": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 32210120": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "BRASILAPI 60867580": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 88304401": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itajaí,SC"
+  },
+  "BRASILAPI 60115001": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 60420775": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 20251030": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 55153130": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Jardim,PE"
+  },
+  "CITY_CENTER BELO JARDIM PE BRAZIL": {
+    "lat": -8.3338293,
+    "lon": -36.4176419,
+    "metodo": "CityCenter",
+    "extra": "BELO JARDIM, PE, Brazil"
+  },
+  "CITY_CENTER AÇU RN BRAZIL": {
+    "lat": -5.5836157,
+    "lon": -36.9139541,
+    "metodo": "CityCenter",
+    "extra": "AÇU, RN, Brazil"
+  },
+  "BRASILAPI 81170220": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Curitiba,PR"
+  },
+  "BRASILAPI 15350000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Auriflama,SP"
+  },
+  "CITY_CENTER AURIFLAMA SP BRAZIL": {
+    "lat": -20.6840418,
+    "lon": -50.5554616,
+    "metodo": "CityCenter",
+    "extra": "AURIFLAMA, SP, Brazil"
+  },
+  "BRASILAPI 55680000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Bonito,PE"
+  },
+  "CITY_CENTER BONITO PE BRAZIL": {
+    "lat": -8.4721161,
+    "lon": -35.7314591,
+    "metodo": "CityCenter",
+    "extra": "BONITO, PE, Brazil"
+  },
+  "BRASILAPI 44260000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santanópolis,BA"
+  },
+  "CITY_CENTER SANTANÓPOLIS BA BRAZIL": {
+    "lat": -12.0243828,
+    "lon": -38.8650365,
+    "metodo": "CityCenter",
+    "extra": "SANTANÓPOLIS, BA, Brazil"
+  },
+  "BRASILAPI 13181713": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sumaré,SP"
+  },
+  "BRASILAPI 50950170": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 58910000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São João do Rio do Peixe,PB"
+  },
+  "CITY_CENTER SÃO JOÃO DO RIO DO PEIXE PB BRAZIL": {
+    "lat": -6.7291053,
+    "lon": -38.4478745,
+    "metodo": "CityCenter",
+    "extra": "SÃO JOÃO DO RIO DO PEIXE, PB, Brazil"
+  },
+  "BRASILAPI 15420000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Guaraci,SP"
+  },
+  "CITY_CENTER GUARACI SP BRAZIL": {
+    "lat": -20.4976771,
+    "lon": -48.9452074,
+    "metodo": "CityCenter",
+    "extra": "GUARACI, SP, Brazil"
+  },
+  "BRASILAPI 88307324": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itajaí,SC"
+  },
+  "BRASILAPI 22430220": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Rio de Janeiro,RJ"
+  },
+  "BRASILAPI 41301325": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 64260000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Piripiri,PI"
+  },
+  "CITY_CENTER PIRIPIRI PI BRAZIL": {
+    "lat": -4.2732339,
+    "lon": -41.7785173,
+    "metodo": "CityCenter",
+    "extra": "PIRIPIRI, PI, Brazil"
+  },
+  "BRASILAPI 30640000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 41680100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 57316025": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Arapiraca,AL"
+  },
+  "BRASILAPI 18095410": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sorocaba,SP"
+  },
+  "BRASILAPI 95020260": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Caxias do Sul,RS"
+  },
+  "CITY_CENTER CAXIAS DO SUL RS BRAZIL": {
+    "lat": -29.1685045,
+    "lon": -51.1796385,
+    "metodo": "CityCenter",
+    "extra": "CAXIAS DO SUL, RS, Brazil"
+  },
+  "BRASILAPI 40081400": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 59155435": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Parnamirim,RN"
+  },
+  "BRASILAPI 92310300": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Canoas,RS"
+  },
+  "CITY_CENTER CANOAS RS BRAZIL": {
+    "lat": -29.9216045,
+    "lon": -51.1799525,
+    "metodo": "CityCenter",
+    "extra": "CANOAS, RS, Brazil"
+  },
+  "CITY_CENTER JARAGUÁ DO SUL SC BRAZIL": {
+    "lat": -26.4897432,
+    "lon": -49.0778063,
+    "metodo": "CityCenter",
+    "extra": "JARAGUÁ DO SUL, SC, Brazil"
+  },
+  "BRASILAPI 60810670": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 31260490": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 18120000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Mairinque,SP"
+  },
+  "CITY_CENTER MAIRINQUE SP BRAZIL": {
+    "lat": -23.518426,
+    "lon": -47.1984731,
+    "metodo": "CityCenter",
+    "extra": "MAIRINQUE, SP, Brazil"
+  },
+  "BRASILAPI 58075006": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "BRASILAPI 57314175": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Arapiraca,AL"
+  },
+  "CITY_CENTER SÃO FÉLIX BA BRAZIL": {
+    "lat": -12.6069891,
+    "lon": -38.9695574,
+    "metodo": "CityCenter",
+    "extra": "SÃO FÉLIX, BA, Brazil"
+  },
+  "BRASILAPI 79033281": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 30160012": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 51170410": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 65020251": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 41940000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "CITY_CENTER SENHOR DO BONFIM BA BRAZIL": {
+    "lat": -10.4602509,
+    "lon": -40.189151,
+    "metodo": "CityCenter",
+    "extra": "SENHOR DO BONFIM, BA, Brazil"
+  },
+  "BRASILAPI 57270000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Junqueiro,AL"
+  },
+  "CITY_CENTER JUNQUEIRO AL BRAZIL": {
+    "lat": -9.9201549,
+    "lon": -36.474737,
+    "metodo": "CityCenter",
+    "extra": "JUNQUEIRO, AL, Brazil"
+  },
+  "BRASILAPI 41720400": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "BRASILAPI 49680000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Nossa Senhora da Glória,SE"
+  },
+  "CITY_CENTER NOSSA SENHORA DA GLÓRIA SE BRAZIL": {
+    "lat": -10.2188811,
+    "lon": -37.4199759,
+    "metodo": "CityCenter",
+    "extra": "NOSSA SENHORA DA GLÓRIA, SE, Brazil"
+  },
+  "BRASILAPI 40231000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "CITY_CENTER PARACAMBI RJ BRAZIL": {
+    "lat": -22.6109158,
+    "lon": -43.7096912,
+    "metodo": "CityCenter",
+    "extra": "PARACAMBI, RJ, Brazil"
+  },
+  "BRASILAPI 63430000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Icó,CE"
+  },
+  "CITY_CENTER ICÓ CE BRAZIL": {
+    "lat": -6.4003992,
+    "lon": -38.8575946,
+    "metodo": "CityCenter",
+    "extra": "ICÓ, CE, Brazil"
+  },
+  "CITY_CENTER GUARATUBA PR BRAZIL": {
+    "lat": -25.8806192,
+    "lon": -48.5750905,
+    "metodo": "CityCenter",
+    "extra": "GUARATUBA, PR, Brazil"
+  },
+  "BRASILAPI 66825070": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 13075250": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campinas,SP"
+  },
+  "BRASILAPI 55602150": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Vitória de Santo Antão,PE"
+  },
+  "BRASILAPI 28145000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campos dos Goytacazes,RJ"
+  },
+  "BRASILAPI 84261380": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Telêmaco Borba,PR"
+  },
+  "CITY_CENTER SUZANO SP BRAZIL": {
+    "lat": -23.5427842,
+    "lon": -46.3108391,
+    "metodo": "CityCenter",
+    "extra": "SUZANO, SP, Brazil"
+  },
+  "BRASILAPI 58070160": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "BRASILAPI 32657375": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Betim,MG"
+  },
+  "BRASILAPI 62760000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Baturité,CE"
+  },
+  "CITY_CENTER BATURITÉ CE BRAZIL": {
+    "lat": -4.3290203,
+    "lon": -38.8821055,
+    "metodo": "CityCenter",
+    "extra": "BATURITÉ, CE, Brazil"
+  },
+  "BRASILAPI 32072170": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "BRASILAPI 32010120": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "BRASILAPI 65620000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Coelho Neto,MA"
+  },
+  "CITY_CENTER COELHO NETO MA BRAZIL": {
+    "lat": -4.2535154,
+    "lon": -43.0149321,
+    "metodo": "CityCenter",
+    "extra": "COELHO NETO, MA, Brazil"
+  },
+  "BRASILAPI 65065390": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Luís,MA"
+  },
+  "BRASILAPI 68555031": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Xinguara,PA"
+  },
+  "CITY_CENTER XINGUARA PA BRAZIL": {
+    "lat": -7.0998514,
+    "lon": -49.9416632,
+    "metodo": "CityCenter",
+    "extra": "XINGUARA, PA, Brazil"
+  },
+  "BRASILAPI 30190120": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belo Horizonte,MG"
+  },
+  "BRASILAPI 87045020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Maringá,PR"
+  },
+  "CITY_CENTER MARINGÁ PR BRAZIL": {
+    "lat": -23.425269,
+    "lon": -51.9382078,
+    "metodo": "CityCenter",
+    "extra": "MARINGÁ, PR, Brazil"
+  },
+  "BRASILAPI 57300500": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Arapiraca,AL"
+  },
+  "BRASILAPI 17209656": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Jaú,SP"
+  },
+  "CITY_CENTER JAÚ SP BRAZIL": {
+    "lat": -22.293585,
+    "lon": -48.559193,
+    "metodo": "CityCenter",
+    "extra": "JAÚ, SP, Brazil"
+  },
+  "BRASILAPI 13105500": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campinas,SP"
+  },
+  "BRASILAPI 14400410": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Franca,SP"
+  },
+  "CITY_CENTER FRANCA SP BRAZIL": {
+    "lat": -20.5381768,
+    "lon": -47.4009795,
+    "metodo": "CityCenter",
+    "extra": "FRANCA, SP, Brazil"
+  },
+  "BRASILAPI 88034600": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Florianópolis,SC"
+  },
+  "BRASILAPI 13024100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campinas,SP"
+  },
+  "BRASILAPI 57120000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Satuba,AL"
+  },
+  "CITY_CENTER SATUBA AL BRAZIL": {
+    "lat": -9.569113,
+    "lon": -35.822697,
+    "metodo": "CityCenter",
+    "extra": "SATUBA, AL, Brazil"
+  },
+  "CITY_CENTER SOBRAL CE BRAZIL": {
+    "lat": -3.6879135,
+    "lon": -40.3456372,
+    "metodo": "CityCenter",
+    "extra": "SOBRAL, CE, Brazil"
+  },
+  "BRASILAPI 81720290": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Curitiba,PR"
+  },
+  "BRASILAPI 52050310": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Recife,PE"
+  },
+  "BRASILAPI 13473660": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Americana,SP"
+  },
+  "BRASILAPI 41810340": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "CITY_CENTER INDIARA GO BRAZIL": {
+    "lat": -17.1387389,
+    "lon": -49.9861621,
+    "metodo": "CityCenter",
+    "extra": "INDIARA, GO, Brazil"
+  },
+  "BRASILAPI 58064250": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "João Pessoa,PB"
+  },
+  "BRASILAPI 18048140": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sorocaba,SP"
+  },
+  "BRASILAPI 53610835": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Igarassu,PE"
+  },
+  "CITY_CENTER IGARASSU PE BRAZIL": {
+    "lat": -7.8354423,
+    "lon": -34.9061125,
+    "metodo": "CityCenter",
+    "extra": "IGARASSU, PE, Brazil"
+  },
+  "BRASILAPI 32371610": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Contagem,MG"
+  },
+  "BRASILAPI 49085410": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "BRASILAPI 58400020": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campina Grande,PB"
+  },
+  "BRASILAPI 13310420": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Itu,SP"
+  },
+  "CITY_CENTER ITU SP BRAZIL": {
+    "lat": -23.2637798,
+    "lon": -47.2998462,
+    "metodo": "CityCenter",
+    "extra": "ITU, SP, Brazil"
+  },
+  "BRASILAPI 18130200": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "São Roque,SP"
+  },
+  "BRASILAPI 75143085": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Anápolis,GO"
+  },
+  "BRASILAPI 65901360": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Imperatriz,MA"
+  },
+  "BRASILAPI 38190000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Sacramento,MG"
+  },
+  "CITY_CENTER SACRAMENTO MG BRAZIL": {
+    "lat": -19.8652854,
+    "lon": -47.4402746,
+    "metodo": "CityCenter",
+    "extra": "SACRAMENTO, MG, Brazil"
+  },
+  "BRASILAPI 59610140": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Mossoró,RN"
+  },
+  "CITY_CENTER NAVEGANTES SC BRAZIL": {
+    "lat": -26.8898813,
+    "lon": -48.6495828,
+    "metodo": "CityCenter",
+    "extra": "NAVEGANTES, SC, Brazil"
+  },
+  "CITY_CENTER TORITAMA PE BRAZIL": {
+    "lat": -8.0083743,
+    "lon": -36.058776,
+    "metodo": "CityCenter",
+    "extra": "TORITAMA, PE, Brazil"
+  },
+  "BRASILAPI 38603338": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Paracatu,MG"
+  },
+  "CITY_CENTER PARACATU MG BRAZIL": {
+    "lat": -17.2174056,
+    "lon": -46.8707514,
+    "metodo": "CityCenter",
+    "extra": "PARACATU, MG, Brazil"
+  },
+  "BRASILAPI 58410340": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campina Grande,PB"
+  },
+  "BRASILAPI 79017043": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Campo Grande,MS"
+  },
+  "BRASILAPI 82305100": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Curitiba,PR"
+  },
+  "BRASILAPI 72405290": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 70354000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 73050140": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 40296340": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Salvador,BA"
+  },
+  "CITY_CENTER BRAGANÇA PA BRAZIL": {
+    "lat": -1.0574255,
+    "lon": -46.7635232,
+    "metodo": "CityCenter",
+    "extra": "BRAGANÇA, PA, Brazil"
+  },
+  "BRASILAPI 49075060": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Aracaju,SE"
+  },
+  "BRASILAPI 68040565": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Santarém,PA"
+  },
+  "CITY_CENTER SANTARÉM PA BRAZIL": {
+    "lat": -2.438489,
+    "lon": -54.699611,
+    "metodo": "CityCenter",
+    "extra": "SANTARÉM, PA, Brazil"
+  },
+  "BRASILAPI 66095346": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Belém,PA"
+  },
+  "BRASILAPI 71926000": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Brasília,DF"
+  },
+  "BRASILAPI 60731390": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Fortaleza,CE"
+  },
+  "BRASILAPI 43721465": {
+    "lat": null,
+    "lon": null,
+    "metodo": "BrasilAPI",
+    "extra": "Simões Filho,BA"
+  }
+}

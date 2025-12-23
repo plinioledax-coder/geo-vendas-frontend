@@ -1,0 +1,64 @@
+{
+  "cobertura_estados": {
+    "RENATO PEREIRA": ["MT"],
+    "RODRIGO LISBOA": ["MG"],
+    "CLAUDIA": ["MG"],
+    "DANIEL DE EQUIP.": ["PE", "RN"],
+    "HAMILTON MORAES": ["GO", "MS"],
+    "ALEXANDRE CÂND.": ["AL", "DF"],
+    "EDSEU MARQUES": ["TO", "PA"],
+    "MAURO FOLLMANN": ["PA"],
+    "MANOEL AFONSO": ["AC", "RO"],
+    "JOSÉ LOBO": ["BA"],
+    "PEDRO AMORIM": ["RJ"],
+    "CRYSTIANO SILVA": ["AM"]
+  },
+  "reps_municipais": [
+    "ERNESTO (LLAMPE)",
+    "CLECIO SALVIANO",
+    "MARCOS BARIANO",
+    "SEM COBERTURA"
+  ],
+  "municipios_especificos": {
+    "capital_sp": ["São Paulo"],
+    "ribeirao_campinas": ["Ribeirão Preto", "Campinas"],
+    "ernesto": [
+    "Adrianópolis", "Agudos do Sul", "Almirante Tamandaré", "Antonina", "Antônio Olinto",
+    "Araucária", "Balsa Nova", "Bocaiúva do Sul", "Campo do Tenente", "Campo Largo",
+    "Campo Magro", "Carambeí", "Castro", "Cerro Azul", "Colombo", "Contenda",
+    "Cruz Machado", "Curitiba", "Doutor Ulysses", "Fazenda Rio Grande", "Fernandes Pinheiro",
+    "Guamiranga", "Guarapuava", "Guaraqueçaba", "Guaratuba", "Imbituva",
+    "Inácio Martins", "Ipiranga", "Irati", "Itaperuçu", "Jaguariaíva",
+    "Lapa", "Mallet", "Mandirituba", "Matinhos", "Morretes",
+    "Palmeira", "Paranaguá", "Paula Freitas", "Paulo Frontin", "Piên",
+    "Pinhais", "Piraí do Sul", "Piraquara", "Ponta Grossa", "Pontal do Paraná",
+    "Porto Amazonas", "Prudentópolis", "Quatro Barras", "Quitandinha", "Rebouças",
+    "Rio Azul", "Rio Branco do Sul", "São João do Triunfo", "São José dos Pinhais",
+    "São Mateus do Sul", "Sengés", "Teixeira Soares", "Tijucas do Sul", "Tunas do Paraná",
+    "União da Vitória", "Agronômica", "Apiúna", "Ascurra", "Aurora", "Bela Vista do Toldo",
+    "Benedito Novo", "Blumenau", "Botuverá", "Brusque", "Camboriú",
+    "Campo Alegre", "Canelinha", "Canoinhas", "Corupá", "Dona Emma",
+    "Doutor Pedrinho", "Gaspar", "Guabiruba", "Guaramirim", "Ibirama",
+    "Ilhota", "Indaial", "Irineópolis", "Itaiópolis", "Itajaí",
+    "Ituporanga", "Jaraguá do Sul", "José Boiteux", "Lontras", "Luiz Alves",
+    "Mafra", "Major Vieira", "Massaranduba", "Mirim Doce", "Monte Castelo",
+    "Nova Trento", "Papanduva", "Pomerode", "Porto União", "Pouso Redondo",
+    "Presidente Getúlio", "Presidente Nereu", "Rio do Campo", "Rio do Oeste", "Rio do Sul",
+    "Rio dos Cedros", "Rio Negrinho", "Rodeio", "Salete",
+    "São Bento do Sul", "São João Batista", "São João do Itaperiú", "Schroeder", "Taió",
+    "Tijucas", "Timbó", "Três Barras", "Trombudo Central", "Vidal Ramos",
+    "Vitor Meireles", "Witmarsum",
+    "Apiaí", "Barra do Chapéu", "Barra do Turvo", "Cajati", "Cananéia",
+    "Iguape", "Ilha Comprida", "Iporanga", "Jacupiranga",
+    "Juquiá", "Miracatu", "Pariquera-Açu", "Registro", "Ribeira",
+    "Sete Barras", "Tapiraí"
+    ]
+  },
+  "estados_com_logica_municipal": ["São Paulo", "Paraná", "Santa Catarina"],
+  "cores": {
+    "RENATO PEREIRA": "rgba(255, 105, 180, 0.7)",
+    "ERNESTO (LLAMPE)": "rgba(0, 128, 15, 0.58)",
+    "SEM COBERTURA": "rgba(0, 0, 0, 0.76)",
+    "COR_SOBREPOSICAO": "rgba(255, 102, 0, 0.8)"
+  }
+}

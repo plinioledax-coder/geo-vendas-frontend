@@ -1,0 +1,17 @@
+# requirements.txt
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pandas
+openpyxl
+tqdm
+python-multipart
+python-dateutil
+geopy
+
+# --- Segurança e Autenticação (Novos) ---
+python-jose[cryptography]
+passlib[bcrypt]
+
+# --- Variáveis de Ambiente (Novo) ---
+python-dotenv

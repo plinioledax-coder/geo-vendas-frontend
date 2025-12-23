@@ -1,0 +1,148 @@
+/* =========================================================
+   MAPS.CSS - Layout e Estilos do Módulo de Mapa
+========================================================= */
+
+/* --- Layout Principal (Flexbox) --- */
+/* O .module ocupa 100% do container #app */
+.module {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+/* --- Sidebar Interna de Filtros (Diferente da Nav Principal) --- */
+#sidebar-map {
+  width: 320px;
+  min-width: 300px;
+  height: 100%;
+  
+  background-color: var(--bg-panel, #ffffff);
+  border-right: 1px solid rgba(0,0,0,0.1);
+  
+  display: flex;
+  flex-direction: column;
+  z-index: 10;
+  
+  /* Se tiver scroll nos filtros */
+  overflow-y: auto; 
+}
+
+/* Espaçamento interno da sidebar do mapa */
+.sidebar-inner {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem; /* Espaço entre grupos de filtro */
+}
+
+/* Títulos dentro da sidebar do mapa */
+#sidebar-map h2 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-main, #0f172a);
+  margin-bottom: 0.5rem;
+}
+
+#sidebar-map h3 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted, #94a3b8);
+  margin-bottom: 0.75rem;
+  font-weight: 700;
+}
+
+/* --- Área do Mapa (Leaflet) --- */
+.map {
+  flex: 1;            /* Ocupa todo o espaço restante */
+  height: 100%;       /* OBRIGATÓRIO */
+  width: 100%;
+  background-color: #e5e7eb; /* Cor de fundo de carregamento */
+  position: relative;
+  z-index: 1;
+}
+
+/* --- Estilos Específicos de Filtros --- */
+.filter-group {
+  margin-bottom: 0.5rem;
+}
+
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.checkbox-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary, #334155);
+  cursor: pointer;
+  padding: 4px 0;
+}
+
+.checkbox-row:hover {
+  color: var(--ledax, #008594);
+}
+
+.checkbox-row input[type="checkbox"] {
+  cursor: pointer;
+  accent-color: var(--ledax, #008594);
+  width: 16px;
+  height: 16px;
+}
+
+/* Link para pular mapa (Acessibilidade) */
+.skip-link {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+.skip-link:focus {
+  top: 10px;
+  left: 10px;
+  z-index: 9999;
+  background: white;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+/* --- Legendas --- */
+.legend {
+  margin-top: auto; /* Empurra legenda para baixo se houver espaço */
+  padding-top: 1rem;
+}
+
+.legend-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--text-secondary);
+}
+
+.legend-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* Estilo para itens de legenda gerados dinamicamente */
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.legend-color-box {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  display: inline-block;
+}
