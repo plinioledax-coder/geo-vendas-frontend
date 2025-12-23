@@ -220,7 +220,7 @@ import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
 import 'leaflet.heat/dist/leaflet-heat.js';
 
 // --- CONFIGURAÇÕES ---
-const API_BASE = import.meta.env.VITE_API_BASE_URL;
+const API_BASE = "https://geo-vendas-backend.onrender.com/api/vendas";
 const URL_CONFIG = "/data/config_redes.json";
 const URL_ESTADOS = "/static/brasil_estados.geojson";
 
