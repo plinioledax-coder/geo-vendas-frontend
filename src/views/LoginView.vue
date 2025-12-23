@@ -68,7 +68,7 @@ const error = ref(false);
 const serverError = ref(false); 
 const loading = ref(false);
 
-const API_URL = 'http://localhost:8001/token'; 
+const API_URL = 'https://geo-vendas-backend.onrender.com/token'; 
 
 const handleLogin = async () => {
   error.value = false;
