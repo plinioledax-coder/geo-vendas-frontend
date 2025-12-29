@@ -220,7 +220,8 @@ import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
 import 'leaflet.heat/dist/leaflet-heat.js';
 
 // --- CONFIGURAÇÕES ---
-const API_BASE = "https://geo-vendas-backend.onrender.com/api/vendas";
+// Ajuste a porta se necessário (8000 ou 8001)
+const API_BASE = "http://127.0.0.1:8001/api/vendas"; 
 const URL_CONFIG = "/data/config_redes.json";
 const URL_ESTADOS = "/static/brasil_estados.geojson";
 
@@ -246,27 +247,33 @@ const geoJsonEstados = shallowRef(null);
 const CORES_MAP = reactive({});
 const COBERTURA_MAP = reactive({});
 
-// 1. Opções Disponíveis
+// 1. Opções Disponíveis (Listas que aparecem no Sidebar)
 const opcoesFiltros = reactive({ 
   rede: [], 
-  tipo_cliente: [], 
+  segmento: [],       // <--- NOVO
+  classificacao: [],  // <--- NOVO
+  gerencia: [],       // <--- NOVO
+  checklist: [],      // <--- NOVO
   funil: [], 
   representante: [], 
   uf: [],           
   responsavel: []   
 });
 
-// 2. Seleções do Usuário
+// 2. Seleções do Usuário (O que está marcado)
 const filtrosSelecionados = reactive({ 
   rede: [], 
-  tipo_cliente: [], 
+  segmento: [],       // <--- NOVO
+  classificacao: [],  // <--- NOVO
+  gerencia: [],       // <--- NOVO
+  checklist: [],      // <--- NOVO
   funil: [], 
   representante: [], 
   uf: [], 
   responsavel: [] 
 });
 
-// 3. Filtros Globais
+// 3. Filtros Globais (Inputs de texto/data)
 const filtros = reactive({ 
   busca: '', 
   data_inicio: '', 
@@ -275,13 +282,16 @@ const filtros = reactive({
   valor_max: ''     
 });
 
-// 4. Contadores
+// 4. Contadores (Números ao lado dos checkboxes)
 const contadores = reactive({
   rede: {},
-  tipo_cliente: {},
+  segmento: {},       // <--- NOVO
+  classificacao: {},  // <--- NOVO
+  gerencia: {},       // <--- NOVO
+  checklist: {},      // <--- NOVO
   funil: {},
   representante: {},
-  uf: {},          
+  uf: {},           
   responsavel: {} 
 });
 
@@ -290,7 +300,7 @@ const totaisRede = reactive({});
 
 // --- LÓGICA DE COMPUTED ---
 
-// A. Lógica da LISTA DE FILTROS
+// A. Lógica da LISTA DE FILTROS (REDE)
 const buscaRede = ref('');
 const ordenacaoListaRedes = ref('qtd');
 
@@ -300,7 +310,7 @@ const listaRedesReativa = computed(() => {
   let lista = todas.map(nome => ({
     nome,
     qtd: contadores.rede[nome] || 0,
-    total: totaisRede[nome] || 0 // Pega o total R$ computado
+    total: totaisRede[nome] || 0 
   }));
 
   if (buscaRede.value) {
@@ -319,13 +329,14 @@ const listaRedesReativa = computed(() => {
     // 2. Critérios de ordenação
     if (ordenacaoListaRedes.value === 'az') return a.nome.localeCompare(b.nome);
     if (ordenacaoListaRedes.value === 'za') return b.nome.localeCompare(a.nome);
-    if (ordenacaoListaRedes.value === 'valor') return b.total - a.total; // Ordenar por R$
+    if (ordenacaoListaRedes.value === 'valor') return b.total - a.total; 
     
     // Padrão: Volume
     return b.qtd - a.qtd; 
   });
 });
 
+// Helper genérico para as outras listas
 const getListaReativa = (chave) => {
   const lista = opcoesFiltros[chave] || [];
   return lista
@@ -358,7 +369,7 @@ const kpis = reactive({
 // B. Lógica do WIDGET DE RESUMO (Top Redes)
 const ordenacaoRedes = ref('qtd');
 const redesOrdenadasWidget = computed(() => {
-  const lista = [...kpis.rawRedes]; // rawRedes já tem {nome, qtd, total}
+  const lista = [...kpis.rawRedes]; 
   
   if (ordenacaoRedes.value === 'qtd') return lista.sort((a, b) => b.qtd - a.qtd).slice(0, 5);
   else if (ordenacaoRedes.value === 'valor') return lista.sort((a, b) => b.total - a.total).slice(0, 5);
@@ -367,11 +378,16 @@ const redesOrdenadasWidget = computed(() => {
   return lista.slice(0, 5);
 });
 
-// Helpers
+// Helpers de Formatação
 const formatarTitulo = (str) => {
   if (str === 'uf') return 'Estados (UF)';
   if (str === 'responsavel') return 'Responsáveis';
-  if (str === 'tipo_cliente') return 'Tipo Cliente';
+  if (str === 'tipo_cliente') return 'Tipo Cliente'; // Mantido para compatibilidade
+  if (str === 'gerencia') return 'Gerência Nacional';
+  if (str === 'classificacao') return 'Classificação';
+  if (str === 'checklist') return 'Checklist';
+  if (str === 'segmento') return 'Segmento';
+  
   return str.replace(/_/g, ' ').toUpperCase();
 };
 
@@ -386,7 +402,6 @@ const formatarMoeda = (valor) => {
   return new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(valor || 0);
 };
 
-// Formata abreviado (10k, 1M) para caber na lista
 const formatarMoedaCompacta = (valor) => {
   if (!valor) return 'R$ 0';
   if (valor >= 1000000) return `R$ ${(valor/1000000).toFixed(1)}M`;
@@ -447,9 +462,20 @@ const carregarOpcoesFiltros = async () => {
     
     if (res.ok) {
       const data = await res.json();
-      Object.keys(opcoesFiltros).forEach(key => {
-        if (data[key]) opcoesFiltros[key] = data[key];
-      });
+      
+      // Mapeamento: API (Plural) -> Frontend (Singular)
+      if (data.redes) opcoesFiltros.rede = data.redes;
+      
+      // NOVOS FILTROS
+      if (data.segmentos) opcoesFiltros.segmento = data.segmentos;
+      if (data.classificacoes) opcoesFiltros.classificacao = data.classificacoes;
+      if (data.gerencias) opcoesFiltros.gerencia = data.gerencias;
+      if (data.checklists) opcoesFiltros.checklist = data.checklists;
+      
+      if (data.funis) opcoesFiltros.funil = data.funis;
+      if (data.representantes) opcoesFiltros.representante = data.representantes;
+      if (data.responsaveis) opcoesFiltros.responsavel = data.responsaveis;
+      if (data.ufs) opcoesFiltros.uf = data.ufs;
     }
   } catch (err) { console.error(err); }
 };
@@ -491,11 +517,12 @@ const carregarDados = async () => {
 
 const atualizarKPIs = (dados) => {
   kpis.totalClientes = dados.length;
+  // Fallback seguro para valor_venda ou valor
   kpis.totalValor = dados.reduce((acc, item) => acc + (parseFloat(item.valor_venda || item.valor) || 0), 0);
 
   // Zera contadores
   Object.keys(contadores).forEach(key => contadores[key] = {});
-  // Zera totalizador de redes (NOVO)
+  // Zera totalizador de redes
   Object.keys(totaisRede).forEach(key => delete totaisRede[key]);
   
   const redesStats = {};
@@ -508,22 +535,35 @@ const atualizarKPIs = (dados) => {
     const valorItem = parseFloat(item.valor_venda || item.valor) || 0;
 
     if (item.rede) {
-      // Para o Widget
       if (!redesStats[item.rede]) redesStats[item.rede] = { count: 0, total: 0 };
       redesStats[item.rede].count++;
       redesStats[item.rede].total += valorItem;
 
-      // Para a Lista (Reatividade Global)
       if (!totaisRede[item.rede]) totaisRede[item.rede] = 0;
       totaisRede[item.rede] += valorItem;
     }
 
-    ['rede', 'tipo_cliente', 'funil', 'representante', 'uf', 'responsavel'].forEach(chave => {
-       let valor = item[chave];
-       if (chave === 'responsavel' && !valor) valor = item.responsavel_do_negocio; 
+    // --- MAPEAMENTO: JSON do Backend -> Chave do Frontend ---
+    const mapaCampos = [
+        { json: 'rede', filtro: 'rede' },
+        { json: 'segmento', filtro: 'segmento' },              // NOVO
+        { json: 'classificacao', filtro: 'classificacao' },    // NOVO
+        { json: 'gerencia_nacional', filtro: 'gerencia' },     // NOVO (Nome diferente no banco)
+        { json: 'checklist', filtro: 'checklist' },            // NOVO
+        { json: 'funil', filtro: 'funil' },
+        { json: 'representante', filtro: 'representante' },
+        { json: 'uf', filtro: 'uf' },
+        { json: 'responsavel', filtro: 'responsavel' }
+    ];
+
+    mapaCampos.forEach(({ json, filtro }) => {
+       let valor = item[json];
+       // Tratamento especial para responsável
+       if (json === 'responsavel' && !valor) valor = item.responsavel_do_negocio; 
+       
        if (valor) {
-         if (!contadores[chave][valor]) contadores[chave][valor] = 0;
-         contadores[chave][valor]++;
+         if (!contadores[filtro][valor]) contadores[filtro][valor] = 0;
+         contadores[filtro][valor]++;
        }
     });
   });
@@ -545,26 +585,47 @@ const plotarNoMapa = (dados) => {
   const markers = [];
 
   dados.forEach(item => {
+    // Normalização de coordenadas
     let lat = parseFloat(String(item.latitude).replace(',', '.'));
     let lng = parseFloat(String(item.longitude).replace(',', '.'));
-    if (isNaN(lat) || isNaN(lng) || lat === 0) return;
+    
+    // IMPORTANTE: Só plota se tiver coordenada válida. 
+    // Itens sem coordenada continuam contando nos KPIs, mas não aparecem no mapa.
+    if (isNaN(lat) || isNaN(lng) || lat === 0 || lat === null) return;
     
     heatPoints.push([lat, lng, 1]);
     const color = stringToColor(item.rede || 'Outros');
-    const icon = L.divIcon({ className: 'custom-pin', html: `<span style="background-color: ${color};"></span>`, iconSize: [12, 12], iconAnchor: [6, 6] });
+    
+    const icon = L.divIcon({ 
+        className: 'custom-pin', 
+        html: `<span style="background-color: ${color};"></span>`, 
+        iconSize: [12, 12], 
+        iconAnchor: [6, 6] 
+    });
     
     const m = L.marker([lat, lng], { icon });
     const val = parseFloat(item.valor_venda || item.valor) || 0;
     
     m.bindPopup(`
       <div style="font-family:'Segoe UI', sans-serif; min-width: 320px; padding: 5px;">
-        <div style="font-weight:700; color:#0f766e; font-size:15px; margin-bottom: 6px;">${item.titulo || 'Cliente'}</div>
-        <div style="margin-bottom: 10px;"><span style="background-color: ${color}; color: #fff; font-size: 11px; font-weight: 600; padding: 3px 8px; border-radius: 4px;">${item.rede || 'SEM REDE'}</span></div>
+        <div style="font-weight:700; color:#0f766e; font-size:15px; margin-bottom: 6px;">
+            ${item.cliente || item.titulo || 'Cliente'}
+        </div>
+        <div style="margin-bottom: 10px;">
+            <span style="background-color: ${color}; color: #fff; font-size: 11px; font-weight: 600; padding: 3px 8px; border-radius: 4px;">
+                ${item.rede || 'SEM REDE'}
+            </span>
+             <span style="background-color: #64748b; color: #fff; font-size: 11px; font-weight: 600; padding: 3px 8px; border-radius: 4px; margin-left: 5px;">
+                ${item.segmento || 'GERAL'}
+            </span>
+        </div>
         <div style="border-top: 1px solid #e2e8f0; margin: 10px 0;"></div>
         <div style="font-size:13px; line-height: 1.6; color: #334155;">
+          <div><b>Número:</b> ${item.numero || '-'}</div>
           <div><b>Rep:</b> ${item.representante || item.responsavel || 'N/D'}</div>
           <div><b>Valor:</b> <span style="color:#16a34a; font-weight:700;">${formatarMoeda(val)}</span></div>
           <div><b>Loc:</b> ${item.cidade} - ${item.uf}</div>
+          <div style="font-size: 11px; color: #94a3b8; margin-top:5px;"><i>${item.endereco_usado_geocode || 'Geocode Auto'}</i></div>
         </div>
       </div>
     `, { maxWidth: 400 });
@@ -592,7 +653,7 @@ const gerenciarCamadas = () => {
       if (heatLayer.value) map.value.removeLayer(heatLayer.value);
       heatLayer.value = L.heatLayer(storedHeatPoints.value, { radius: 25, blur: 15, maxZoom: 17 }).addTo(map.value);
    } else {
-     if(heatLayer.value) { map.value.removeLayer(heatLayer.value); heatLayer.value = null; }
+      if(heatLayer.value) { map.value.removeLayer(heatLayer.value); heatLayer.value = null; }
    }
 };
 
@@ -612,7 +673,7 @@ const desenharRegional = () => {
   regionalLayer.value = L.geoJSON(geoJsonEstados.value, {
     style: (f) => ({ fillColor: ufsComCor[f.properties.sigla] || 'transparent', weight: 1, color: 'white', fillOpacity: 0.4 }),
     onEachFeature: (f, l) => {
-       if (ufsComCor[f.properties.sigla]) l.bindTooltip(`${f.properties.name}`, { sticky: true });
+        if (ufsComCor[f.properties.sigla]) l.bindTooltip(`${f.properties.name}`, { sticky: true });
     }
   }).addTo(map.value);
   regionalLayer.value.bringToBack();
