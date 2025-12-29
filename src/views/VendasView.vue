@@ -221,7 +221,7 @@ import 'leaflet.heat/dist/leaflet-heat.js';
 
 // --- CONFIGURAÇÕES ---
 // Ajuste a porta se necessário (8000 ou 8001)
-const API_BASE = "http://127.0.0.1:8001/api/vendas"; 
+const API_BASE = "https://geo-vendas-backend.onrender.com/api/vendas"; 
 const URL_CONFIG = "/data/config_redes.json";
 const URL_ESTADOS = "/static/brasil_estados.geojson";
 
@@ -1348,4 +1348,5 @@ onMounted(async () => {
   border-radius: 8px !important;
   padding: 0 !important;
 }
+
 </style>
