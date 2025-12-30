@@ -6,7 +6,7 @@
         <div v-if="!sidebarCollapsed" class="fade-in">
           <h2 class="title">Geolocalização de Vendas</h2>
           <p class="subtitle">Análise Quantitativa</p>
-          
+
           <p v-if="dataAtualizacao" class="last-update" title="Data da última alteração no banco de dados">
             🕒 Atualizado: {{ dataAtualizacao }}
           </p>
@@ -22,11 +22,31 @@
 
         <section class="filter-group">
           <label class="section-label">Filtros Globais</label>
-          
-          <div class="search-box">
-            <input v-model="filtros.busca" placeholder="Buscar cliente, cidade..." class="input-modern">
+
+          <div class="search-box" style="position: relative; display: flex; align-items: center;">
+
+            <input v-model="filtros.busca" placeholder="Buscar cliente, cidade..." class="input-modern"
+              style="padding-right: 35px; width: 100%;">
+
+            <button v-if="filtros.busca" @click="limparBusca" title="Limpar" style="
+                  position: absolute; 
+                  right: 10px; 
+                  background: none; 
+                  border: none; 
+                  cursor: pointer; 
+                  color: #94a3b8; 
+                  display: flex; 
+                  align-items: center;
+              ">
+              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+              </svg>
+            </button>
+
           </div>
-          
+
           <div class="date-row">
             <div class="date-wrapper">
               <span class="date-label">De</span>
@@ -126,7 +146,7 @@
 
           <div class="search-container flex-row">
             <input type="text" v-model="buscaRede" placeholder="Filtrar lista..." class="search-input" />
-            
+
             <select v-model="ordenacaoListaRedes" class="sort-select-mini" title="Ordenar Lista">
               <option value="qtd">Vol.</option>
               <option value="valor">R$</option>
@@ -145,8 +165,10 @@
               <label class="checkbox-wrapper">
                 <input type="checkbox" :value="item.nome" v-model="filtrosSelecionados.rede">
                 <span class="color-marker" :style="{ backgroundColor: stringToColor(item.nome) }"></span>
-                <span class="item-name" :title="item.nome + ' (' + formatarMoeda(item.total) + ')'">{{ item.nome }}</span>
-                <span class="item-count" v-if="ordenacaoListaRedes === 'valor'">{{ formatarMoedaCompacta(item.total) }}</span>
+                <span class="item-name" :title="item.nome + ' (' + formatarMoeda(item.total) + ')'">{{ item.nome
+                }}</span>
+                <span class="item-count" v-if="ordenacaoListaRedes === 'valor'">{{ formatarMoedaCompacta(item.total)
+                }}</span>
                 <span class="item-count" v-else>({{ item.qtd }})</span>
               </label>
             </div>
@@ -165,7 +187,7 @@
             </div>
 
             <div class="scroll-list custom-scroll">
-               <div v-for="item in getListaReativa(chave)" :key="item.nome" class="list-item">
+              <div v-for="item in getListaReativa(chave)" :key="item.nome" class="list-item">
                 <label class="checkbox-wrapper">
                   <input type="checkbox" :value="item.nome" v-model="filtrosSelecionados[chave]">
                   <span class="color-marker"
@@ -221,7 +243,7 @@ import 'leaflet.heat/dist/leaflet-heat.js';
 
 // --- CONFIGURAÇÕES ---
 // Ajuste a porta se necessário (8000 ou 8001)
-const API_BASE = "https://geo-vendas-backend.onrender.com/api/vendas"; 
+const API_BASE = "https://geo-vendas-backend.onrender.com/api/vendas";
 const URL_CONFIG = "/data/config_redes.json";
 const URL_ESTADOS = "/static/brasil_estados.geojson";
 
@@ -236,50 +258,50 @@ const heatLayer = shallowRef(null);
 const regionalLayer = shallowRef(null);
 
 // Armazena pontos do heatmap
-const storedHeatPoints = shallowRef([]); 
+const storedHeatPoints = shallowRef([]);
 
 const sidebarCollapsed = ref(false);
 const loading = ref(false);
 let searchTimeout = null;
 
-const dataAtualizacao = ref(''); 
+const dataAtualizacao = ref('');
 const geoJsonEstados = shallowRef(null);
 const CORES_MAP = reactive({});
 const COBERTURA_MAP = reactive({});
 
 // 1. Opções Disponíveis (Listas que aparecem no Sidebar)
-const opcoesFiltros = reactive({ 
-  rede: [], 
+const opcoesFiltros = reactive({
+  rede: [],
   segmento: [],       // <--- NOVO
   classificacao: [],  // <--- NOVO
   gerencia: [],       // <--- NOVO
   checklist: [],      // <--- NOVO
-  funil: [], 
-  representante: [], 
-  uf: [],           
-  responsavel: []   
+  funil: [],
+  representante: [],
+  uf: [],
+  responsavel: []
 });
 
 // 2. Seleções do Usuário (O que está marcado)
-const filtrosSelecionados = reactive({ 
-  rede: [], 
+const filtrosSelecionados = reactive({
+  rede: [],
   segmento: [],       // <--- NOVO
   classificacao: [],  // <--- NOVO
   gerencia: [],       // <--- NOVO
   checklist: [],      // <--- NOVO
-  funil: [], 
-  representante: [], 
-  uf: [], 
-  responsavel: [] 
+  funil: [],
+  representante: [],
+  uf: [],
+  responsavel: []
 });
 
 // 3. Filtros Globais (Inputs de texto/data)
-const filtros = reactive({ 
-  busca: '', 
-  data_inicio: '', 
-  data_fim: '', 
-  valor_min: '',    
-  valor_max: ''     
+const filtros = reactive({
+  busca: '',
+  data_inicio: '',
+  data_fim: '',
+  valor_min: '',
+  valor_max: ''
 });
 
 // 4. Contadores (Números ao lado dos checkboxes)
@@ -291,8 +313,8 @@ const contadores = reactive({
   checklist: {},      // <--- NOVO
   funil: {},
   representante: {},
-  uf: {},           
-  responsavel: {} 
+  uf: {},
+  responsavel: {}
 });
 
 // NOVO: Totais em R$ por rede (para permitir ordenação na lista)
@@ -306,11 +328,11 @@ const ordenacaoListaRedes = ref('qtd');
 
 const listaRedesReativa = computed(() => {
   const todas = opcoesFiltros.rede || [];
-  
+
   let lista = todas.map(nome => ({
     nome,
     qtd: contadores.rede[nome] || 0,
-    total: totaisRede[nome] || 0 
+    total: totaisRede[nome] || 0
   }));
 
   if (buscaRede.value) {
@@ -322,17 +344,17 @@ const listaRedesReativa = computed(() => {
     // 1. Prioridade: Selecionados no topo
     const aSelected = filtrosSelecionados.rede.includes(a.nome);
     const bSelected = filtrosSelecionados.rede.includes(b.nome);
-    
-    if (aSelected && !bSelected) return -1; 
-    if (!aSelected && bSelected) return 1;  
-    
+
+    if (aSelected && !bSelected) return -1;
+    if (!aSelected && bSelected) return 1;
+
     // 2. Critérios de ordenação
     if (ordenacaoListaRedes.value === 'az') return a.nome.localeCompare(b.nome);
     if (ordenacaoListaRedes.value === 'za') return b.nome.localeCompare(a.nome);
-    if (ordenacaoListaRedes.value === 'valor') return b.total - a.total; 
-    
+    if (ordenacaoListaRedes.value === 'valor') return b.total - a.total;
+
     // Padrão: Volume
-    return b.qtd - a.qtd; 
+    return b.qtd - a.qtd;
   });
 });
 
@@ -342,11 +364,11 @@ const getListaReativa = (chave) => {
   return lista
     .map(nome => ({ nome, qtd: contadores[chave]?.[nome] || 0 }))
     .sort((a, b) => {
-       const aSelected = filtrosSelecionados[chave]?.includes(a.nome);
-       const bSelected = filtrosSelecionados[chave]?.includes(b.nome);
-       if (aSelected && !bSelected) return -1;
-       if (!aSelected && bSelected) return 1;
-       return b.qtd - a.qtd;
+      const aSelected = filtrosSelecionados[chave]?.includes(a.nome);
+      const bSelected = filtrosSelecionados[chave]?.includes(b.nome);
+      if (aSelected && !bSelected) return -1;
+      if (!aSelected && bSelected) return 1;
+      return b.qtd - a.qtd;
     });
 };
 
@@ -363,18 +385,18 @@ const kpis = reactive({
   totalClientes: 0,
   redesAtivas: 0,
   repsAtivos: 0,
-  rawRedes: [] 
+  rawRedes: []
 });
 
 // B. Lógica do WIDGET DE RESUMO (Top Redes)
 const ordenacaoRedes = ref('qtd');
 const redesOrdenadasWidget = computed(() => {
-  const lista = [...kpis.rawRedes]; 
-  
+  const lista = [...kpis.rawRedes];
+
   if (ordenacaoRedes.value === 'qtd') return lista.sort((a, b) => b.qtd - a.qtd).slice(0, 5);
   else if (ordenacaoRedes.value === 'valor') return lista.sort((a, b) => b.total - a.total).slice(0, 5);
   else if (ordenacaoRedes.value === 'nome') return lista.sort((a, b) => a.nome.localeCompare(b.nome)).slice(0, 5);
-  
+
   return lista.slice(0, 5);
 });
 
@@ -387,7 +409,7 @@ const formatarTitulo = (str) => {
   if (str === 'classificacao') return 'Classificação';
   if (str === 'checklist') return 'Checklist';
   if (str === 'segmento') return 'Segmento';
-  
+
   return str.replace(/_/g, ' ').toUpperCase();
 };
 
@@ -404,8 +426,8 @@ const formatarMoeda = (valor) => {
 
 const formatarMoedaCompacta = (valor) => {
   if (!valor) return 'R$ 0';
-  if (valor >= 1000000) return `R$ ${(valor/1000000).toFixed(1)}M`;
-  if (valor >= 1000) return `R$ ${(valor/1000).toFixed(1)}k`;
+  if (valor >= 1000000) return `R$ ${(valor / 1000000).toFixed(1)}M`;
+  if (valor >= 1000) return `R$ ${(valor / 1000).toFixed(1)}k`;
   return `R$ ${valor.toFixed(0)}`;
 };
 
@@ -430,7 +452,7 @@ const initMap = () => {
 // --- API ---
 const carregarStatusAtualizacao = async () => {
   const token = localStorage.getItem('user_token');
-  if (!token) return; 
+  if (!token) return;
 
   try {
     const res = await fetch(`${API_BASE}/status-dados`, {
@@ -441,7 +463,7 @@ const carregarStatusAtualizacao = async () => {
       const data = await res.json();
       dataAtualizacao.value = data.data_atualizacao;
     }
-  } catch (e) {}
+  } catch (e) { }
 };
 
 const carregarOpcoesFiltros = async () => {
@@ -457,21 +479,21 @@ const carregarOpcoesFiltros = async () => {
 
   try {
     const res = await fetch(`${API_BASE}/filtros?${params.toString()}`, {
-       headers: { 'Authorization': `Bearer ${token}` }
+      headers: { 'Authorization': `Bearer ${token}` }
     });
-    
+
     if (res.ok) {
       const data = await res.json();
-      
+
       // Mapeamento: API (Plural) -> Frontend (Singular)
       if (data.redes) opcoesFiltros.rede = data.redes;
-      
+
       // NOVOS FILTROS
       if (data.segmentos) opcoesFiltros.segmento = data.segmentos;
       if (data.classificacoes) opcoesFiltros.classificacao = data.classificacoes;
       if (data.gerencias) opcoesFiltros.gerencia = data.gerencias;
       if (data.checklists) opcoesFiltros.checklist = data.checklists;
-      
+
       if (data.funis) opcoesFiltros.funil = data.funis;
       if (data.representantes) opcoesFiltros.representante = data.representantes;
       if (data.responsaveis) opcoesFiltros.responsavel = data.responsaveis;
@@ -507,7 +529,7 @@ const carregarDados = async () => {
 
     const vendas = await res.json();
     if (Array.isArray(vendas)) {
-      atualizarKPIs(vendas); 
+      atualizarKPIs(vendas);
       plotarNoMapa(vendas);
       desenharRegional();
     }
@@ -524,14 +546,14 @@ const atualizarKPIs = (dados) => {
   Object.keys(contadores).forEach(key => contadores[key] = {});
   // Zera totalizador de redes
   Object.keys(totaisRede).forEach(key => delete totaisRede[key]);
-  
+
   const redesStats = {};
   const repsSet = new Set();
 
   dados.forEach(item => {
     const rep = item.representante || item.responsavel;
     if (rep) repsSet.add(rep);
-    
+
     const valorItem = parseFloat(item.valor_venda || item.valor) || 0;
 
     if (item.rede) {
@@ -545,26 +567,26 @@ const atualizarKPIs = (dados) => {
 
     // --- MAPEAMENTO: JSON do Backend -> Chave do Frontend ---
     const mapaCampos = [
-        { json: 'rede', filtro: 'rede' },
-        { json: 'segmento', filtro: 'segmento' },              // NOVO
-        { json: 'classificacao', filtro: 'classificacao' },    // NOVO
-        { json: 'gerencia_nacional', filtro: 'gerencia' },     // NOVO (Nome diferente no banco)
-        { json: 'checklist', filtro: 'checklist' },            // NOVO
-        { json: 'funil', filtro: 'funil' },
-        { json: 'representante', filtro: 'representante' },
-        { json: 'uf', filtro: 'uf' },
-        { json: 'responsavel', filtro: 'responsavel' }
+      { json: 'rede', filtro: 'rede' },
+      { json: 'segmento', filtro: 'segmento' },              // NOVO
+      { json: 'classificacao', filtro: 'classificacao' },    // NOVO
+      { json: 'gerencia_nacional', filtro: 'gerencia' },     // NOVO (Nome diferente no banco)
+      { json: 'checklist', filtro: 'checklist' },            // NOVO
+      { json: 'funil', filtro: 'funil' },
+      { json: 'representante', filtro: 'representante' },
+      { json: 'uf', filtro: 'uf' },
+      { json: 'responsavel', filtro: 'responsavel' }
     ];
 
     mapaCampos.forEach(({ json, filtro }) => {
-       let valor = item[json];
-       // Tratamento especial para responsável
-       if (json === 'responsavel' && !valor) valor = item.responsavel_do_negocio; 
-       
-       if (valor) {
-         if (!contadores[filtro][valor]) contadores[filtro][valor] = 0;
-         contadores[filtro][valor]++;
-       }
+      let valor = item[json];
+      // Tratamento especial para responsável
+      if (json === 'responsavel' && !valor) valor = item.responsavel_do_negocio;
+
+      if (valor) {
+        if (!contadores[filtro][valor]) contadores[filtro][valor] = 0;
+        contadores[filtro][valor]++;
+      }
     });
   });
 
@@ -588,24 +610,24 @@ const plotarNoMapa = (dados) => {
     // Normalização de coordenadas
     let lat = parseFloat(String(item.latitude).replace(',', '.'));
     let lng = parseFloat(String(item.longitude).replace(',', '.'));
-    
+
     // IMPORTANTE: Só plota se tiver coordenada válida. 
     // Itens sem coordenada continuam contando nos KPIs, mas não aparecem no mapa.
     if (isNaN(lat) || isNaN(lng) || lat === 0 || lat === null) return;
-    
+
     heatPoints.push([lat, lng, 1]);
     const color = stringToColor(item.rede || 'Outros');
-    
-    const icon = L.divIcon({ 
-        className: 'custom-pin', 
-        html: `<span style="background-color: ${color};"></span>`, 
-        iconSize: [12, 12], 
-        iconAnchor: [6, 6] 
+
+    const icon = L.divIcon({
+      className: 'custom-pin',
+      html: `<span style="background-color: ${color};"></span>`,
+      iconSize: [12, 12],
+      iconAnchor: [6, 6]
     });
-    
+
     const m = L.marker([lat, lng], { icon });
     const val = parseFloat(item.valor_venda || item.valor) || 0;
-    
+
     m.bindPopup(`
       <div style="font-family:'Segoe UI', sans-serif; min-width: 320px; padding: 5px;">
         <div style="font-weight:700; color:#0f766e; font-size:15px; margin-bottom: 6px;">
@@ -629,7 +651,7 @@ const plotarNoMapa = (dados) => {
         </div>
       </div>
     `, { maxWidth: 400 });
-    
+
     markers.push(m);
   });
 
@@ -640,21 +662,21 @@ const plotarNoMapa = (dados) => {
 };
 
 const gerenciarCamadas = () => {
-   if(!map.value) return;
-   if(toggles.clusters) { 
-     map.value.removeLayer(markersLayer.value); 
-     map.value.addLayer(clusterGroup.value); 
-   } else { 
-     map.value.removeLayer(clusterGroup.value); 
-     map.value.addLayer(markersLayer.value); 
-   }
+  if (!map.value) return;
+  if (toggles.clusters) {
+    map.value.removeLayer(markersLayer.value);
+    map.value.addLayer(clusterGroup.value);
+  } else {
+    map.value.removeLayer(clusterGroup.value);
+    map.value.addLayer(markersLayer.value);
+  }
 
-   if(toggles.heat && storedHeatPoints.value.length > 0) {
-      if (heatLayer.value) map.value.removeLayer(heatLayer.value);
-      heatLayer.value = L.heatLayer(storedHeatPoints.value, { radius: 25, blur: 15, maxZoom: 17 }).addTo(map.value);
-   } else {
-      if(heatLayer.value) { map.value.removeLayer(heatLayer.value); heatLayer.value = null; }
-   }
+  if (toggles.heat && storedHeatPoints.value.length > 0) {
+    if (heatLayer.value) map.value.removeLayer(heatLayer.value);
+    heatLayer.value = L.heatLayer(storedHeatPoints.value, { radius: 25, blur: 15, maxZoom: 17 }).addTo(map.value);
+  } else {
+    if (heatLayer.value) { map.value.removeLayer(heatLayer.value); heatLayer.value = null; }
+  }
 };
 
 const desenharRegional = () => {
@@ -662,7 +684,7 @@ const desenharRegional = () => {
   if (regionalLayer.value) { map.value.removeLayer(regionalLayer.value); regionalLayer.value = null; }
   if (!toggles.regional) return;
 
-  const regionaisAtivas = Object.keys(CORES_MAP); 
+  const regionaisAtivas = Object.keys(CORES_MAP);
   const ufsComCor = {};
   regionaisAtivas.forEach(regNome => {
     const ufs = COBERTURA_MAP[regNome];
@@ -673,7 +695,7 @@ const desenharRegional = () => {
   regionalLayer.value = L.geoJSON(geoJsonEstados.value, {
     style: (f) => ({ fillColor: ufsComCor[f.properties.sigla] || 'transparent', weight: 1, color: 'white', fillOpacity: 0.4 }),
     onEachFeature: (f, l) => {
-        if (ufsComCor[f.properties.sigla]) l.bindTooltip(`${f.properties.name}`, { sticky: true });
+      if (ufsComCor[f.properties.sigla]) l.bindTooltip(`${f.properties.name}`, { sticky: true });
     }
   }).addTo(map.value);
   regionalLayer.value.bringToBack();
@@ -684,12 +706,15 @@ const carregarConfiguracoes = async () => {
     const res = await fetch(URL_CONFIG);
     const data = await res.json();
     data.forEach(reg => { CORES_MAP[reg.nome] = reg.cor; COBERTURA_MAP[reg.nome] = reg.estados; });
-  } catch (e) {}
+  } catch (e) { }
 };
-const carregarGeoJSON = async () => { try { const res = await fetch(URL_ESTADOS); if(res.ok) geoJsonEstados.value = await res.json(); } catch(e){} };
+const carregarGeoJSON = async () => { try { const res = await fetch(URL_ESTADOS); if (res.ok) geoJsonEstados.value = await res.json(); } catch (e) { } };
 
 // --- ACTIONS ---
 const limparFiltroUnico = (k) => filtrosSelecionados[k] = [];
+const limparBusca = () => {
+  filtros.busca = '';
+};
 const limparTudo = () => {
   Object.keys(filtrosSelecionados).forEach(k => filtrosSelecionados[k] = []);
   filtros.busca = ''; filtros.data_inicio = ''; filtros.data_fim = '';
@@ -706,12 +731,12 @@ watch(() => [filtros.data_inicio, filtros.data_fim, filtros.valor_min, filtros.v
   carregarOpcoesFiltros();
 });
 
-watch(() => filtros.busca, () => { 
-  clearTimeout(searchTimeout); 
+watch(() => filtros.busca, () => {
+  clearTimeout(searchTimeout);
   searchTimeout = setTimeout(() => {
     carregarDados();
     carregarOpcoesFiltros();
-  }, 500); 
+  }, 500);
 });
 
 watch(() => toggles, () => { gerenciarCamadas(); desenharRegional(); }, { deep: true });
@@ -721,8 +746,8 @@ onMounted(async () => {
   await nextTick();
   setTimeout(async () => {
     initMap(); await carregarConfiguracoes(); await carregarGeoJSON();
-    await carregarOpcoesFiltros(); 
-    await carregarDados();         
+    await carregarOpcoesFiltros();
+    await carregarDados();
     carregarStatusAtualizacao();
   }, 100);
 });
@@ -1004,7 +1029,8 @@ onMounted(async () => {
   background-color: #ffffff;
   outline: none;
   cursor: pointer;
-  height: 30px; /* Mesma altura aproximada do input */
+  height: 30px;
+  /* Mesma altura aproximada do input */
   width: 50px;
 }
 
@@ -1168,11 +1194,11 @@ onMounted(async () => {
 }
 
 .item-count {
-    color: var(--text-muted);
-    font-size: 0.75em;
-    margin-left: auto;
-    padding-left: 8px;
-    font-weight: 600;
+  color: var(--text-muted);
+  font-size: 0.75em;
+  margin-left: auto;
+  padding-left: 8px;
+  font-weight: 600;
 }
 
 /* SEARCH REDE */
@@ -1187,7 +1213,8 @@ onMounted(async () => {
 }
 
 .search-input {
-  flex: 1; /* Ocupa o espaço restante */
+  flex: 1;
+  /* Ocupa o espaço restante */
   padding: 6px 10px;
   font-size: 0.8rem;
   color: #334155;
@@ -1348,5 +1375,4 @@ onMounted(async () => {
   border-radius: 8px !important;
   padding: 0 !important;
 }
-
 </style>
